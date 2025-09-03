@@ -1,0 +1,25 @@
+###############################
+#
+#
+User-agent: *
+#
+# list folders robots are not allowed to index 
+#
+Disallow: /js/
+Disallow: /images/
+Disallow: /fonts/
+Disallow: /css/
+Disallow: /large/
+Disallow: /lib/
+Disallow: /small/
+Disallow: /source/
+
+#
+# list specific files robots are not allowed to index
+#
+Disallow: /form.php
+Disallow: /thanks.html
+Disallow: /fromm1.php
+# 
+#
+###############################

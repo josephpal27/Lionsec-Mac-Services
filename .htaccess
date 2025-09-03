@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^macsecurityservices.com [NC]
+RewriteRule ^(.*)$ http://www.macsecurityservices.com/$1 [L,R=301]
