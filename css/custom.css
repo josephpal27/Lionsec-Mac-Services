@@ -1,1 +1,3905 @@
-@import url(https://fonts.googleapis.com/css?family=Patua+One|Roboto:300,300i,400,400i,900);body{margin:0;padding:0;background:#fff}body h1 a,body h2 a,body h3 a,body h4 a,body h5 a,body h6 a{text-decoration:none;color:#333}body h1 a:hover,body h2 a:hover,body h3 a:hover,body h4 a:hover,body h5 a:hover,body h6 a:hover{text-decoration:none;color:#333}body h1{font:400 48px patua one,cursive;color:#333;margin:0}body h2{font:400 36px patua one,cursive;color:#333;margin:0}body h3{font:400 26px patua one,cursive;color:#333;margin:0 0 15px}body h4{font:400 22px patua one,cursive;color:#333;margin:0 0 15px}body h5{font:400 18px patua one,cursive;color:#333;margin:0 0 8px}body h6{font:400 16px patua one,cursive;color:#333;margin:0 0 10px}body p{font:400 15px/24px Roboto,sans-serif;color:#666;margin:0 0 15px}body p a{text-decoration:none;color:#666}input[type=date],input[type=email],input[type=image],input[type=name],input[type=password],input[type=phone],input[type=search],input[type=tel],input[type=text]{float:left;width:100%;border:2px solid #ccc;height:50px;border-radius:2px;padding:0 20px;margin:0 0 20px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;font:400 15px roboto,sans-serif;color:#777}body select{float:left;width:100%;border:2px solid #ccc;height:50px;border-radius:2px;padding:0 20px;margin:0 0 20px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;font:400 15px roboto,sans-serif;color:#777}body textarea{float:left;width:100%;border:2px solid #ccc;resize:none;height:180px;border-radius:2px;padding:15px 20px;margin:0 0 20px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;font:400 15px roboto,sans-serif;color:#777}button[type=submit],input[type=submit]{float:right;padding:13px 35px;color:#fff;border:0;margin:0 0 20px;text-transform:uppercase;font:700 16px roboto,sans-serif}button[type=submit]:hover,input[type=submit]:hover{background:#222;color:#fff}input::-webkit-input-placeholder{color:#777;opacity:1}input:-moz-placeholder{color:#777;opacity:1}input::-moz-placeholder{color:#777;opacity:1}input:-ms-input-placeholder{color:#777;opacity:1}textarea::-webkit-input-placeholder{color:#777;opacity:1}textarea:-moz-placeholder{color:#777;opacity:1}textarea::-moz-placeholder{color:#777;opacity:1}textarea:-ms-input-placeholder{color:#777;opacity:1}.frame{position:relative;float:left;width:100%;overflow:hidden}.frame img{display:block;width:100%;height:auto}.slider-frame{float:left;width:100%;margin-bottom:20px;overflow:hidden}.slider-frame img{display:block;width:100%}.slider-frame .owl-theme .owl-controls .owl-nav [class*=owl-]{background:#fff;border-radius:0;margin:auto;padding:0;border:2px solid;font-size:0}.slider-frame .owl-next{position:absolute;right:10px;top:0;bottom:0;width:50px;height:50px}.slider-frame .owl-next:before{content:"\f178";font-size:24px;display:block;line-height:46px;text-align:center;font-family:FontAwesome}.slider-frame .owl-next:hover:before,.slider-frame .owl-prev:hover:before{color:#fff}.slider-frame .owl-prev{position:absolute;left:10px;top:0;bottom:0;width:50px;height:50px}.slider-frame .owl-prev:before{content:"\f177";font-size:24px;display:block;line-height:46px;text-align:center;font-family:FontAwesome}.video-frame{float:left;width:100%;margin-bottom:20px;overflow:hidden}.link-post-frame{float:left;width:100%;margin-bottom:20px;overflow:hidden}embed,iframe{width:100%;border:0;height:450px}.text-box{float:left;width:100%}body blockquote{float:left;width:100%;padding:30px 70px;border:0;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;font:italic 24px/36px Roboto,sans-serif;color:#fff;margin:0 0 20px;position:relative}body blockquote p{margin:0;font:italic 24px/36px Roboto,sans-serif;color:#fff}body blockquote:before{content:"";position:absolute;left:30px;top:40px;background:url(../images/qout-img.png) no-repeat left top;width:89px;height:70px}.special-manager{float:left;width:100%}.btn-row{float:left;width:100%;text-align:center}body table{float:left;width:100%;margin:0 0 30px}body table td,body table th{padding:10px 20px;border:1px solid #ccc;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}body table td a,body table th a{color:#222}body table td a:hover,body table th a:hover{text-decoration:none;color:#222}.donation-summary{float:left;width:100%;border:1px solid #ccc;margin:0 0 50px;border-bottom:0;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}.donation-summary dd{padding:10px 20px;border-bottom:1px solid #ccc;float:right;width:50%}.donation-summary dt{padding:10px 20px;background:#f9f9f9;border-right:1px solid #ccc;border-bottom:1px solid #ccc;float:left;width:50%}.btn-style-1{font:400 18px/18px "Patua One",cursive;color:#fff;position:relative;float:left;padding:13px 26px 14px;z-index:11;text-decoration:none;transition:all .3s ease-in;-webkit-transition:all .3s ease-in;-moz-transition:all .3s ease-in;overflow:hidden}.btn-style-1:hover{color:#222;text-decoration:none}.btn-style-1:hover:before{opacity:1;width:100%;left:0;transform:rotate(0) scaleY(7)}.btn-style-1:before{content:"";position:absolute;left:-12px;top:-3px;width:35%;height:100%;background-color:#fff;z-index:-1;transform:rotate(-33deg) scaleY(1);transition:all .3s ease-in;-webkit-transition:all .3s ease-in;-moz-transition:all .3s ease-in;opacity:0}.heading-center{float:left;width:100%;position:relative;text-align:center;padding:60px 0 30px}.heading-center:before{content:"";position:absolute;left:0;right:0;margin:auto;top:60px}.heading-center h2{margin:0 0 15px}.heading-center em{font:italic 400 16px/16px Roboto,sans-serif;color:#666;display:block}#header{float:left;width:100%;background:#222}.header-topbar{float:left;width:100%;padding:10px 0}.header-topbar .holder{float:left;width:100%;border-bottom:1px solid #555;padding-bottom:10px}.header-topbar .left-col{float:left}.header-topbar .left-col a{float:left;text-decoration:none;font:400 14px/25px Roboto,sans-serif;color:#ccc;padding:0 30px 0 0}.header-topbar .left-col a:hover{color:#fff}.header-topbar .left-col a .fa{padding:0 5px 0 0}.header-topbar .topbar-social{float:left}.header-topbar .topbar-social strong.title{float:left;font:400 14px/25px Roboto,sans-serif;color:#ccc;padding:0 5px 0 0}.header-topbar .topbar-social ul{padding:0;margin:0;list-style:none;float:left}.header-topbar .topbar-social ul li{float:left;padding:0 5px 0 0}.header-topbar .topbar-social ul li a{width:25px;height:25px;padding:0;border:1px solid #555;border-radius:100%;text-align:center;line-height:23px;color:#666;font-size:13px;text-decoration:none}.header-topbar .topbar-social ul li a:hover{border-color:transparent}.header-topbar .topbar-social ul li a:hover .fa{color:#fff}.header-topbar .topbar-social ul li a .fa{color:#666;padding:0}.header-topbar .right-col{float:right}.header-topbar .right-col a{float:left;text-decoration:none;font:400 14px/25px Roboto,sans-serif;color:#ccc;padding:0 0 0 30px}.header-topbar .right-col a .fa{padding:0 5px 0 0}.logo-section{float:left;width:100%;padding:5px 0 15px}strong.logo{float:left}.logo-section .right-col{float:right;margin:13px 0 0}.logo-section .right-col a.btn-style-1{float:right;margin:0 0 0 15px}.logo-section .right-col form{float:right;width:262px;position:relative;margin:2px 0 0}.logo-section .right-col form input[type=text]{height:40px;border:1px solid #ccc;border-radius:35px;padding:0 40px 0 13px;font:400 13px roboto,sans-serif;margin:0}.logo-section .right-col form button[type=submit]{position:absolute;right:0;top:7px;height:26px;width:40px;line-height:26px;padding:0;background:0 0;font-size:14px;color:#222;text-align:center;border-left:1px solid #ccc;margin:0;padding:0 0 7px}input:focus,select:focus,textarea:focus{outline:0;-moz-outline:none;-webkit-outline:none}.navigation-section{float:left;width:100%}#nav{padding:0;margin:0;list-style:none;display:block;text-align:center;width:100%}#nav li{display:inline-block;float:none;padding:0;position:relative}#nav li:first-child{background:0 0}#nav li a{font:400 20px/20px "Patua One",cursive;color:#fff;text-decoration:none;padding:16px 22px;display:block;position:relative;z-index:99}#nav li.active a{color:#fff}#nav li.active ul li a{color:#222}#nav li.active ul li a{background:0 0;color:#333}#nav li:hover>a{color:#fff;background:#222}#nav li ul li a:hover,#nav li ul li:hover>a{text-decoration:none;color:#fff;background:#222}#nav li ul{position:absolute;left:-100%;top:100%;width:220px;border:1px solid #ccc;background:#fff;padding:0;list-style:none;z-index:10;opacity:0;visibility:hidden}#nav li:hover>ul{opacity:1;visibility:visible;left:0}#nav li:hover ul li>ul{left:100%}#nav li ul li>ul{position:absolute;left:100%;top:0;width:220px;padding:0}#nav li ul li{float:none;width:100%;padding:0;margin:0;background:0 0}#nav li ul li a{background:0 0;font:400 20px/20px "Patua One",cursive;text-align:left;padding:12px;display:block;border-top:1px solid #ccc;padding:15px 10px;margin:0;color:#333}.navigation-section .navbar-inverse{background-color:transparent;border-color:transparent}.navigation-section .navbar{border-radius:0}.navigation-section .navbar{border:0;margin-bottom:0;min-height:0}.navbar-inverse .navbar-form,.navigation-section .navbar-inverse .navbar-collapse{background:0 0;padding:0}.navigation-section .navbar-inverse .navbar-nav>.active>a,.navigation-section .navbar-inverse .navbar-nav>.active>a:focus,.navigation-section .navbar-inverse .navbar-nav>.active>a:hover{background:#222;color:#fff}.logo-section .modal-dialog{width:1005px}.logo-section .modal-content{background:#fff url(../images/popup-img.jpg) no-repeat left top;border-radius:0;border:0;float:left;width:100%;padding:50px 30px 0 0}.logo-section .modal-header{padding:0;border:0}.logo-section .close{background:#222;font-size:16px;text-shadow:none;width:40px;height:40px;opacity:1;position:absolute;right:5px;top:7px;z-index:9}.logo-section .close:focus,.logo-section .close:hover{opacity:1}.logo-section .inner-box{float:right;width:555px}.logo-section .modal-body{padding:0;margin:0;float:left;width:100%}.logo-section .right-col .contact-form form{float:left;width:100%}.blog-section{float:left;width:100%}.sticky{float:left;width:100%;position:relative}.sticky:before{content:"Sticky Post";position:absolute;bottom:0;right:0;padding:17px 40px;font:400 22px/22px "Patua One",cursive;color:#222;z-index:99}.post-box{float:left;width:100%;margin:0 0 50px}.post-box .text-box h2{margin:0 0 15px}.post-box:hover .frame img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1);opacity:.5}.post-box:hover .text-box h2 a{text-decoration:none}.post-box .frame{background:#000;margin-bottom:20px}.post-meta{float:left;width:100%;margin:-3px 0 0}.post-meta ul{padding:0;margin:0 -20px 0 0;list-style:none}.post-meta ul li{float:left;padding:0;margin:0 20px 10px 0}.post-meta ul li a{color:#222;font:italic 400 14px roboto,sans-serif;text-decoration:none}.post-meta ul li a .fa{padding:0 5px 0 0;color:#aaa}.post-box a.read-post{float:left;font:400 14px patua one,cursive;color:#222;padding:10px 30px}.post-box a.read-post:hover{text-decoration:none;color:#fff;background:#222}.post-box a.link-post{display:block;text-decoration:none;font:500 24px patua one,cursive}.mp3-player-box{float:left;width:100%;margin-bottom:30px}.mp3-player-box .audioplayer-bar{height:7px;margin:-3px 0 0}.mp3-player-box .audioplayer{background:#222;border:0;border-radius:0;box-shadow:none;color:#fff;height:47px;position:relative;text-shadow:1px 1px 0 #000;z-index:1}.mp3-player-box .audioplayer{color:#fff!important}.mp3-player-box .audioplayer:not(.audioplayer-playing) .audioplayer-playpause a{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;border-color:transparent -moz-use-text-color transparent;border-image:none;border-style:solid none solid solid;border-width:.5em medium .5em .5em;content:"";height:0;left:50%;margin:-.5em 0 0 -.25em;position:absolute;top:50%;width:0;color:#fff}.mp3-player-box .audioplayer .audioplayer-time-current{border-left:0}.mp3-player-box .audioplayer-bar-played,.mp3-player-box .audioplayer-volume-adjust div div{box-shadow:none}.mp3-player-box .audioplayer-time{top:0;height:78%;padding:8px 0 0;text-shadow:none}.mp3-player-box .audioplayer-bar,.mp3-player-box .audioplayer-bar div,.mp3-player-box .audioplayer-volume-adjust div{border-radius:0}.mp3-player-box .audioplayer-bar-loaded{background-color:#fff}.mp3-player-box .audioplayer-volume-adjust{background:#444;border-top-left-radius:2px;border-top-right-radius:2px;cursor:default;height:6.25em;left:0;position:absolute;right:-1px;top:-9999px}.mp3-player-box .audioplayer-bar,.mp3-player-box .audioplayer-volume-adjust>div{box-shadow:none}.mp3-player-box .audioplayer-volume-button a{outline:0}.mp3-player-box .audioplayer:not(.audioplayer-mini) .audioplayer-playpause{border:0}.mp3-player-box .audioplayer-volume{border-left:0}.audioplayer-playing .audioplayer-playpause a:after,.mp3-player-box .audioplayer-playing .audioplayer-playpause a:before{background-color:#fff}.mp3-player-box .audioplayer:not(.audioplayer-playing) .audioplayer-playpause:hover a{border-color:transparent -moz-use-text-color transparent #fff}.mp3-player-box .audioplayer-volume-button:hover a:before{border-color:transparent #fff transparent -moz-use-text-color}.mp3-player-box .audioplayer:not(.audioplayer-mute) .audioplayer-volume-button:hover a:after{border-color:#fff}.mp3-player-box .audioplayer-volume-button:hover a{background-color:#fff}.cp-categories,.tags{float:left;width:100%;margin:0 0 7px}.cp-categories strong,.tags strong{float:left;font:400 16px/24px Montserrat,sans-serif;padding:0 10px 0 0;color:#222}.cp-categories a,.tags a{font:400 14px/14px Lato,sans-serif;color:#222;border:1px solid #ccc;float:left;text-decoration:none;padding:4px 10px 6px;margin:0 10px 10px 0;position:relative}.cp-categories a:hover,.tags a:hover{border-color:transparent;color:#fff;text-decoration:none}.pagination-col{float:left;width:100%;margin:0 0 80px}.pagination-col .pagination{border-radius:0;display:block;margin:0;text-align:center;padding:0}.pagination-col .pagination>li{display:inline-block}.pagination-col .pagination>li:first-child>a,.pagination-col .pagination>li:first-child>span,.pagination-col .pagination>li:last-child>a,.pagination-col .pagination>li:last-child>span{border-radius:0;margin-left:0}.pagination-col .pagination>li>a,.pagination-col .pagination>li>span{background-color:#fff;border:2px solid #ccc;font:500 15px/15px "Patua One",cursive;color:#777;float:left;margin-left:0;padding:10px 15px;position:relative;text-decoration:none}.pagination-col .pagination li.active a{color:#fff;border-color:transparent}.pagination-col .pagination>li>a:focus,.pagination-col .pagination>li>a:hover,.pagination-col .pagination>li>span:focus,.pagination-col .pagination>li>span:hover{color:#fff;border-color:transparent}.blog-detail{float:left;width:100%}.blog-detail p{margin:0 0 25px}.related-images{float:left;width:100%;margin:0 0 10px}.share-post{float:left;width:100%;margin:0 0 20px}.share-post strong.title{float:left;font:400 14px/46px "Patua One",cursive;text-transform:uppercase;padding:0 10px 0 0}.share-post ul{float:left;padding:0;margin:0;list-style:none;border-right:1px solid #ccc}.share-post ul li{float:left}.share-post ul li a{font-size:15px;color:#999;padding:12px 10px;border-left:1px solid #ccc;display:block;text-decoration:none}.share-post ul li:hover a{color:#fff;border-color:transparent}.comment-form,.comments-form{float:left;width:100%}.comment-form h3,.comments-form h3{margin:0 0 5px}.comment-reply-title{font:500 24px patua one,cursive;color:#222;margin:0 0 15px}.comment-reply-title small a{display:inline-block;margin:0 0 0 30px;padding:7px 20px;background:#222;color:#fff;text-decoration:none}.comment-reply-title small a:hover{color:#fff}.cp-comments{float:left;width:100%;padding:0;margin:0 0 50px;list-style:none}.cp-comments li{padding:0}.cp-comments li .children li{display:block;padding:20px 0 0}.cp-comments li .children li .text{margin:0}.cp-comments li .children li .post-time ul li{padding:0 20px 0 0}.cp-comments li .thumb{float:left;margin:0 20px 0 0}.cp-comments li .text{overflow:hidden;margin:20px 0 0;border-bottom:1px solid #ccc;padding:0 0 20px}.cp-comments li .text h4{margin:0 0 5px}.cp-comments li .text p{margin:0 0 8px}.post-time{float:left;width:100%}.post-time ul{padding:0;margin:0;list-style:none}.post-time ul li{float:left;padding:0 20px 0 0}.cp-comments li .post-time ul li p{margin:0;font:400 15px/24px Roboto,sans-serif;color:#777}.post-time ul li a.comment-reply-link{padding:3px 15px 6px;display:block;color:#222;font:400 14px/14px "Patua One",cursive}.post-time ul li a.comment-reply-link:hover{background:#222;color:#fff;text-decoration:none}.comment-respond{float:left;width:100%}.cp-comments{margin:0 0 40px}.error-section{float:left;width:100%;padding:100px 0 160px}.error-section .holder{margin:0 auto;display:block;overflow:hidden;width:556px;text-align:center}.error-section .holder input[type=text]{margin:0}.error-section .holder strong.error-text{display:block;text-align:center;font:900 250px/180px "Patua One",cursive;padding:0 0 75px}.error-section .holder span.oops{display:block;text-align:center;text-transform:uppercase;font:900 48px/48px "Patua One",cursive;color:#ccc;padding:0 0 20px}.error-section .holder b{display:block;text-align:center;text-transform:uppercase;font:600 36px/36px "Patua One",cursive;padding:0 0 20px}.error-section .holder strong.title{display:block;font:500 24px/24px "Patua One",cursive;color:#222;text-align:center;text-transform:uppercase;padding:0 0 50px}.error-section .holder form{float:left;width:100%;position:relative}.error-section .holder form button[type=submit]{position:absolute;right:0;top:8px;height:33px;width:47px;background:0 0;border-left:1px solid #ccc;padding:0}.search-not-found .holder{float:left;text-align:left}.search-not-found .holder span.oops{text-align:left}.search-not-found .holder strong.error-text{font:900 67px/67px Montserrat,sans-serif;text-align:left;padding:0 0 30px}.search-not-found .holder strong.title{font:500 21px/21px Montserrat,sans-serif;text-align:left;padding:0 0 30px}.countdown-box{float:left;width:100%;margin:0 0 20px;overflow:hidden}.countdown-box .countdown_section{font:400 12px/12px Roboto,sans-serif;color:#fff;padding:8px 0 0;margin:0 5px 0 0;float:left;text-align:center;position:relative;width:60px;height:60px}.countdown-box .countdown_amount{font:500 24px montserrat,sans-serif;color:#fff;font-weight:100;text-align:center}.blog-detail .countdown-box{position:absolute;right:5px;bottom:10px;margin:0;width:auto}.gallery-section{float:left;width:100%}.gallery-section .frame{margin-bottom:50px}.gallery-section .frame a.link{position:absolute;left:-120%;right:0;top:0;bottom:0;margin:auto;width:50px;height:50px;border-radius:100%;background:#fff;text-align:center;line-height:50px;font-size:14px;z-index:9}.gallery-section .frame:before{content:"";height:50%;left:0;margin:auto;opacity:0;position:absolute;right:0;top:-20%;width:100%;background:#000}.gallery-section .frame:after{content:"";height:50%;left:0;margin:auto;opacity:0;position:absolute;right:0;bottom:-20%;width:100%;background:#000}.gallery-section .frame:hover:before{opacity:.5;top:0}.gallery-section .frame:hover:after{bottom:0;opacity:.5}.gallery-section .frame:hover a.link{left:0}.team-section{float:left;width:100%}.team-box{float:left;width:100%;margin:0 0 50px}.team-box .frame{margin:0}.team-box .text-box{border:1px solid #ccc;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;text-align:center;padding:15px 0 17px}.team-box .text-box h2{margin:0 0 10px}.team-box .text-box strong.title{display:block;text-align:center;font:500 14px/14px Montserrat,sans-serif;color:#222}.team-detail{float:left;width:100%;padding:0 0 50px}.team-detail .text-box{float:left;width:100%}.team-detail .text-box strong.title{display:block;font:400 22px/22px "Patua One",cursive;color:#222;padding:0 0 20px}.team-detail .text-box ul{padding:0;margin:38px 0 0;list-style:none;overflow:hidden}.team-detail .text-box ul li{display:block;overflow:hidden;padding:28px 0 0}.team-detail .text-box ul li:first-child{padding:0}.team-detail .frame{background:#000}.team-detail .frame:hover img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1);opacity:.5}.progress-box{float:left;width:100%}.progress-box strong.title-2{display:block;font:400 16px/16px "Patua One",cursive;color:#222;padding:0 0 13px}.progress-box .progress{height:10px;margin-bottom:0;overflow:inherit;background-color:#e1e1e1;border-radius:0;box-shadow:none}.progress-box .progress-bar{box-shadow:none;position:relative}.progress-box .progress-bar span{display:block;font:400 16px/16px "Patua One",cursive;color:#000;position:absolute;right:0;top:-29px}.form-section{float:left;width:100%;padding:70px 0 80px}.form-section h2{margin:0 0 20px}.form-section button[type=submit],.form-section input[type=submit]{width:100%;padding:13px 0;margin:0}.testimonial-section{float:left;width:100%}.testimonial-section .pagination-col{margin:20px 0 80px}.words-from-director-wrapper{display:flex;flex-wrap:wrap}.words-from-director-wrapper .words-from-director-column{display:flex;position:relative}.testimonial-box{float:left;width:100%;background:#f0f0f0;padding:40px 40px 70px 40px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;position:relative;margin:0 0 30px;flex:1}.testimonial-box:before{content:"";position:absolute;left:30px;top:30px;background:url(../images/qout-img-2.png) no-repeat left top;width:89px;height:70px}.testimonial-box em{display:block;font:italic 300 22px/34px Roboto,sans-serif;color:#555;padding:0 0 15px}.testimonial-box .round-thumb{width:112px;height:112px;border:2px solid #fff;border-radius:100%;overflow:hidden;margin:0 15px 0 0;background:#000;margin:0 auto}.testimonial-box .round-thumb:hover img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1)}.testimonial-box .round-thumb img{display:block;width:100%;height:auto;border-radius:100%}.testimonial-box .holder{margin:30px 0 0;text-align:center}.testimonial-box .holder h2{margin:0 0 5px;font-size:19px;position:absolute;bottom:40px;left:50%;transform:translateX(-50%)}.testimonial-box .holder span{font:italic 400 14px/14px Roboto,sans-serif;color:#222;display:block}.contact-section{float:left;width:100%;padding:0 0 80px}.contact-2 .holder{padding:0 112px}.contact-2 .holder .btn-row{display:block;text-align:center;margin:0 0 50px}.contact-2 .contact-row{padding:0}.contact-2 .map-row .map_canvas{height:543px}.contact-2 .map-row{margin:0}.contact-2 .holder .btn-row input[type=submit]{float:none;display:inline-block;margin:0}.map-row{float:left;width:100%;margin:0 0 50px}.map-row .map_canvas{height:420px;width:100%}.contact-row{float:left;width:100%;padding:0 98px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}.contact-box{background:#222;float:left;width:100%;padding:50px 40px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}.contact-box h3{color:#fff}.contact-box ul{padding:0 0 10px;margin:0 0 20px;list-style:none}.contact-box ul li{display:block;position:relative;margin:30px 0 0}.contact-box ul li:first-child{margin:0}.contact-box ul li img{position:absolute;left:0;top:6px}.contact-box ul li .holder{overflow:hidden;padding:0 0 0 58px}.contact-box ul li .holder p{font:400 16px/26px Roboto,sans-serif;color:#fff;margin:0}.contact-box ul li .holder p a{text-decoration:none;font:400 16px/26px Roboto,sans-serif;color:#fff;margin:0}.contact-box .text-col{float:left;width:100%;padding:0;color:#fff}.contact-box .text-col p{color:#fff;margin:0}.contact-form{float:left;width:100%}.comingsoon{float:left;width:100%;background:url(../images/coming-soon-bg.jpg) no-repeat left top/cover;padding:89px 0}.comingsoon .holder{width:940px;margin:0 auto;display:block;overflow:hidden}strong.coming-logo{display:block;text-align:center;width:100%;margin:0 0 50px}.comingsoon h1{display:block;text-align:center;color:#fff;font:700 72px/72px Montserrat,sans-serif;margin:0 0 15px}.comingsoon p{font:400 24px/32px Roboto,sans-serif;color:#fff;margin:0 0 70px;text-align:center}.comingsoon strong.title{display:block;text-align:center;font:500 36px/36px Montserrat,sans-serif;color:#fff;text-transform:uppercase;padding:0 0 15px}.comingsoon .countdown-box{float:left;width:100%;margin:0 0 80px;text-align:center}.comingsoon .countdown-box .countdown_section{font:900 16px/16px Montserrat,sans-serif;color:#fff;text-transform:uppercase;padding:0;margin:0 10px;float:none;display:inline-block;text-align:center;background:0 0;width:150px;height:auto}.comingsoon .countdown-box .countdown_section:before{content:":";font:400 60px/60px Roboto,sans-serif;color:#fff;position:absolute;left:160px;right:0;margin:auto}.comingsoon .countdown-box .countdown_section:last-child:before{display:none}.comingsoon .countdown-box .countdown_amount{font:900 72px/72px Montserrat,sans-serif;color:#fff;text-align:center;display:block}.subscribe-box{float:left;width:100%}.subscribe-box strong.subscribe{display:block;text-align:center;font:500 24px/24px Montserrat,sans-serif;color:#fff;padding:0 0 5px}.subscribe-box span{display:block;text-align:center;font:400 14px/14px Roboto,sans-serif;color:#fff;padding:0 0 20px}.subscribe-box form{display:block;margin:0 auto 20px;overflow:hidden;width:555px;position:relative}.subscribe-box form input[type=submit]{position:absolute;right:2px;top:2px;font:500 18px montserrat,sans-serif;text-transform:capitalize;padding:12px 17px}.subscribe-box a.btn-home{display:inline-block;background:#fff;color:#222;padding:18px 39px;font:400 14px/14px Montserrat,sans-serif;text-decoration:none}.subscribe-box a.btn-home .fa{padding:0 5px 0 0}.subscribe-box a.btn-home:hover{background:#222;color:#fff}.product-section{float:left;width:100%}.product-box{float:left;width:100%;border:1px solid #ccc;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;margin:0 0 50px}.product-box .frame{background:#000}.product-box .text-box{float:left;width:100%;padding:20px 0;text-align:center}.product-box .text-box strong.price{display:inline-block;text-align:center;font:500 18px/18px Montserrat,sans-serif;padding:0 0 18px}.product-box .text-box strong.cut-price{display:inline-block;text-align:center;text-decoration:line-through;padding:0 0 18px 5px;color:#222;font:500 18px/18px Montserrat,sans-serif}.cart-row{float:left;width:100%;text-align:center}.cart-box,.checkout-box,.like-box{display:inline-block;width:40px;height:40px;font-size:14px;text-align:center;line-height:40px;color:#999;margin:0 3px;border:1px solid #ccc}.cart-box a,.checkout-box a,.like-box a{text-decoration:none;color:#999}.cart-box:hover,.checkout-box:hover,.like-box:hover{color:#fff}.cart-box:hover a,.checkout-box:hover a,.like-box:hover a{color:#fff}.product-box:hover{box-shadow:0 4px 5px rgba(0,0,0,.15);-moz-box-shadow:0 4px 5px rgba(0,0,0,.15);-webkit-box-shadow:0 4px 5px rgba(0,0,0,.15)}.product-box:hover .frame img{opacity:.5}#banner{float:left;width:100%;position:relative}#banner img{display:block;width:100%}#banner .caption{position:absolute;left:0;top:190px;width:100%;height:100%}#banner .caption .inner-box{float:left;width:565px}.center-text{text-align:center;margin:-30px 0 0}#banner .caption .inner-box .img-icon img{width:auto;display:block;margin:0 auto 30px}#banner .caption .inner-box h1{color:#fff;font-size:48px;color:#fff;text-shadow:0 6px 4px rgba(0,0,0,.25)}#banner .caption .inner-box p{color:#fff;font:300 18px/30px Roboto,sans-serif}#banner .caption .center-text a.btn-style-1{float:none;display:inline-block;margin:0 2px;padding:15px 26px 16px}#banner .caption .inner-box .btn-row a.btn-style-1{margin:0 10px 0 0;padding:15px 26px 16px}.features-services-setion{float:left;width:100%;padding:60px 0;background:#1c1c1c}.features-bg-none{background:0 0;padding:0}.features-bg-none .features-services-box{margin-bottom:30px}.features-services-box{float:left;width:100%;padding:8px;background:#333;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}.features-services-box .frame{margin-bottom:10px}.features-services-box .text-box{padding-bottom:5px}.features-services-box .text-box h3{margin:0;text-align:center;display:block;color:#ccc;font-size:22px}.features-services-box .text-box h3 a{color:#ccc}.features-services-box:hover h3 a{color:#222}.features-services-box:hover .frame img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1)}.left-menu{float:left;width:100%}.heading-row{float:left;width:100%;text-align:center;padding:20px 0}.heading-row h3{margin:0;color:#fff}.left-menu ul{float:left;width:100%;padding:0 20px;margin:0 0 15px;list-style:none;background:#222}.left-menu ul li{display:block;padding:17px 0;border-top:1px solid #444;position:relative}.left-menu ul li:first-child{border:0}.left-menu ul li a{font:400 18px/18px "Patua One",cursive;color:#777;text-decoration:none;display:block}.left-menu ul li.active a{text-decoration:none}.left-menu ul li.active:before{content:"";position:absolute;left:-20px;top:0;width:5px;height:100%}.services-section .join-box{text-align:center}.services-section .join-box .btn-style-1{float:none;display:inline-block}.services-section .text-box .frame{margin-bottom:22px}.services-detail{margin-bottom:80px}.space-manager{float:left;width:100%}.services-detail .frame{background:#000}.services-detail .frame:hover img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1);opacity:.5}.welcome-section{float:left;width:100%;padding:50px 0}.welcome-section .inner-col{width:100%;float:left;padding:0 50px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}.welcome-section .inner-col .frame{position:relative}.welcome-section .inner-col .frame:hover img{margin:0 0 0 10px}.welcome-section .inner-col .frame:before{content:"";position:absolute;left:0;bottom:0;width:100%;height:498px;border:15px solid}.welcome-section .inner-col .frame img{position:relative}.welcome-section .inner-col .text-box{padding:0 0 0}.welcome-section .inner-col .text-box h2{margin:0 0 20px}.welcome-section .inner-col .text-box p{margin:0 0 30px}.welcome-section .inner-col .text-box a.btn-style-1{background:#222;color:#fff;padding:16px 30px}.services-section{float:left;width:100%}.services-section .heading-center{background:#222}.services-section .heading-center h2{color:#fff}.services-section .heading-center em{color:#ccc}.services-section .inner-row{float:left;width:100%;background-image:url(../images/services-bg.jpg);background-repeat:no-repeat;background-position:left top;background-size:cover;-moz-background-size:cover;-webkit-background-size:cover;padding:30px 0 80px}.services-box{float:left;width:100%;text-align:center;background:#fff;border:1px solid #ccc;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;padding:30px 20px;margin-bottom:30px}.services-box .services-icon{display:inline-block;text-align:center;position:relative;width:97px;margin-bottom:20px;overflow:hidden}.services-box .services-icon:before{content:"";position:absolute;left:0;right:0;margin:auto;top:0;width:90%;height:100%;border-top:1px solid #ccc;border-bottom:1px solid #ccc}.services-box .services-icon:after{content:"";position:absolute;left:0;top:0;bottom:0;margin:auto;width:100%;height:90%;border-left:1px solid #ccc;border-right:1px solid #ccc}.services-box .text-box h3{margin:0 0 10px;font-size:22px}.services-box .text-box p{margin:0}.services-section .btn-row a.btn-style-1{float:none;display:inline-block}.services-box:hover .services-icon:before{width:100%}.services-box:hover .services-icon:after{height:100%}.services-box:hover .services-icon img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1)}.call-number-section{float:left;width:100%;padding:30px 0}.call-number-section strong.title{display:block;font:400 26px/28px "Patua One",cursive;color:#fff;padding:5px 0 0}.call-number-section strong.title span{display:block}.call-number-section strong.number{float:right;background:#fff;font:400 36px/36px "Patua One",cursive;color:#222;padding:19px 31px;position:relative}.call-number-section strong.number:hover{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1)}.call-number-section strong.number:before{content:"";position:absolute;left:0;right:5px;margin:auto;top:5px;width:90%;height:86%;border-top:1px solid #ccc;border-bottom:1px solid #ccc}.call-number-section strong.number:after{content:"";position:absolute;left:5px;right:5px;top:0;bottom:5px;margin:auto;width:95%;height:85%;border-left:1px solid #ccc;border-right:1px solid #ccc}.news-media-section{float:left;width:100%;padding:20px 0 50px}.news-media-section .box{float:left;width:100%;border:2px solid #ccc;padding:30px 20px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;margin-bottom:30px}.news-media-section .box strong.date{float:left;font:900 14px/14px Roboto,sans-serif;color:#888;border-bottom:2px solid;padding:0 16px 10px 0;margin:0 0 15px}.news-media-section .box h3{display:block;clear:both;font-size:26px;margin:0 0 10px}.news-media-section .box .frame{margin-bottom:20px}.news-media-section .box a.btn-style-1{background:#fff;color:#666;border:2px solid #ccc;padding:10px 15px;font-size:15px;line-height:15px}.news-media-section .box a.btn-style-1:hover{border-color:transparent;color:#333}.news-media-section .box .btn-style-1:hover:before{border-color:transparent;color:#fff}.news-media-section .box .frame a.link{position:absolute;left:-150%;right:0;top:0;bottom:0;margin:auto;width:50px;height:50px;border-radius:100%;text-align:center;line-height:50px;color:#222;font-size:20px;z-index:9}.news-media-section .box .frame:before{content:"";position:absolute;left:0;right:0;margin:auto;top:-100%;width:94%;height:45%;background:rgba(0,0,0,.7)}.news-media-section .box .frame:after{content:"";position:absolute;left:0;right:0;margin:auto;bottom:-100%;width:94%;height:45%;background:rgba(0,0,0,.7)}.news-media-section .box:hover .frame:before{top:10px}.news-media-section .box:hover .frame:after{bottom:10px}.news-media-section .box:hover .frame a.link{left:0}.team-section{float:left;width:100%;background:#1c1c1c;padding-bottom:50px}.team-bg-none{background:0 0}.team-section .pagination-col{margin:20px 0 0}.team-section .container-fluid{padding:30px 60px 0;clear:both}.team-section .heading-center{background:#222}.team-section .heading-center h2{color:#fff}.team-section .heading-center em{color:#ccc}.team-box-style-1{float:left;width:336px;background:#fff;margin-bottom:30px;padding:10px;border:1px solid #ccc;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}.team-box-style-1 .frame{margin-bottom:15px;background:#000}.team-box-style-1 .text-box{text-align:center}.team-box-style-1 .text-box h3{font-size:26px;margin:0 0 5px}.team-box-style-1 .text-box span{display:block;font:400 15px/15px Roboto,sans-serif;color:#666;padding:0 0 5px}.team-box-style-1:hover .frame img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1);opacity:.5}.team-box-style-1:hover .text-box h3 a{text-decoration:none}.testimonial-row{float:left;width:100%;padding:5px 0}.testimonial-row h2{margin:0 0 15px;text-align:center}.testimonial-style-1-box{float:left;width:100%;background-image:url(../images/testi-bg.jpg);background-repeat:no-repeat;background-position:left top;background-size:cover;-moz-background-size:cover;-webkit-background-size:cover;padding:60px 45px 56px 80px;position:relative}.testimonial-style-1-box em{display:block;color:#fff;font:italic 24px/38px Roboto,sans-serif;color:#fff;padding:0 0 25px}.testimonial-style-1-box:before{content:"";position:absolute;left:30px;top:30px;background:url(../images/testi-quote-icon.png) no-repeat left top;width:89px;height:70px}.round-frame{width:106px;height:106px;border-radius:100%;border:3px solid;overflow:hidden;margin:0 auto}.round-frame img{width:100%;height:100%;overflow:hidden;border-radius:100%}.text-col{overflow:hidden;padding:18px 0 0;text-align:center}.text-col strong.name{display:block;font:400 26px/26px "Patua One",cursive;color:#fff;padding:0 0 10px}.text-col em{font:italic 400 15px/15px Roboto,sans-serif;display:block;color:#fff}.testimonial-style-1-box .owl-theme .owl-dots .owl-dot span{width:12px;height:12px;margin:0 7px;background:#999}.documents-box{float:left;width:100%;border:2px solid #ccc;padding:13px 5px 13px 15px;margin-bottom:5px}.documents-box .left-box{float:left}.documents-box .left-box a{text-decoration:none;font:400 18px patua one,cursive;color:#333}.documents-box .left-box a span{display:block}.documents-box a.download{float:right;font:400 12px/12px "Patua One",cursive;color:#fff;padding:11px 15px;margin:4px 0 0;border:2px solid #fff}.documents-box a.download:hover{background:0 0;text-decoration:none;border:2px solid #ccc}.join-box{float:left;width:100%;background-image:url(../images/join-bg.jpg);background-repeat:no-repeat;background-position:left top;background-size:cover;-moz-background-size:cover;-webkit-background-size:cover;padding:25px 20px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;margin:15px 0 0}.join-box .left-box{float:left}.join-box .left-box h3{font:400 26px patua one,cursive;color:#fff;margin:0}.join-box .left-box h3 span{display:block}.join-box .left-box h3 a{color:#fff}.join-box a.btn-style-1{float:right;color:#333;background:#fff;margin:10px 0 0}.spacer-col{float:left;padding:0 98px;width:100%;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;margin:0 0 80px}.spacer-col .join-box .left-box h3{line-height:54px}#footer{float:left;width:100%;background:#1c1c1c;padding:80px 0 0}strong.footer-logo{display:block;margin:0 0 15px}#footer .footer-box{float:left;width:100%;padding-bottom:20px}#footer .footer-box p{color:#999}#footer .footer-box h3{color:#ccc}.services-widget{float:left;width:100%}.services-widget ul{padding:0;margin:0;list-style:none}.services-widget ul li{display:block;overflow:hidden;padding:9px 0 0}.services-widget ul li:first-child{padding:0}.services-widget ul li a{text-decoration:none;font:400 16px/16px "Patua One",cursive;color:#999}.services-widget ul li a .fa{padding:0 15px 0 0}.services-widget ul li a:hover{color:#fff}.recent-widget{float:left;width:100%}.recent-widget ul{padding:0;margin:0;list-style:none}.recent-widget ul li{display:block;overflow:hidden;padding:20px 0 0}.recent-widget ul li:first-child{padding:0}.recent-widget ul li .thumb{float:left;margin:0 15px 0 0;overflow:hidden}.recent-widget ul li .text-col{overflow:hidden;padding:0}.recent-widget ul li .text-col a{text-decoration:none;font:400 16px patua one,cursive;color:#999;display:block;padding:0 0 10px}.recent-widget ul li .text-col span{float:left;font:400 12px/12px Roboto,sans-serif;color:#777;padding:0 14px 0 0}.recent-widget ul li .text-col span .fa{float:left;padding:0 5px 0 0}.recent-widget ul li:hover .thumb img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1);opacity:.5}.recent-widget ul li:hover .text-col a{text-decoration:none}.recent-widget ul li:hover span{color:#fff}.footer-map{float:left;width:100%}.footer-map .map_canvas{width:100%;height:250px}.copyrights-row{float:left;width:100%;background:#2c2c2c;padding:18px 0}.copyrights-row strong.copy{display:block;text-align:center;font:400 13px/13px Roboto,sans-serif;color:#999}.copyrights-row strong.copy a{text-decoration:none}#inner-banner{float:left;width:100%;background:url(../images/inner-banner.jpg) no-repeat left top;padding:85px 0;margin-bottom:60px}#inner-banner h1{font:400 40px/50px "Patua One",cursive;color:#fff;margin:0;float:left}#inner-banner .breadcrumb{padding:0;margin-bottom:0;list-style:none;background-color:transparent;border-radius:0;float:right}#inner-banner .breadcrumb li{font:400 15px/15px Roboto,sans-serif;color:#fff}#inner-banner .breadcrumb li a{font:400 15px/15px Roboto,sans-serif;color:#fff;text-decoration:none}#inner-banner .breadcrumb>li+li::before{padding:0 5px;color:#ccc;content:":"}.sidebar{float:left;width:100%}.sidebar-box{float:left;width:100%;margin-bottom:40px}.sidebar-box h3{margin:0 0 15px}.search-box{float:left;width:100%}.search-widget form{float:left;width:100%;position:relative}.search-widget form input[type=text]{height:45px;font-size:13px}.search-widget form button[type=submit]{position:absolute;right:0;top:0;border-radius:0 3px 3px 0;padding:0;width:45px;height:45px;color:#222;font-size:16px;line-height:45px}.textwidget{float:left;width:100%}.textwidget a.btn-more{display:block;font:400 18px/18px "Patua One",cursive;color:#333;text-decoration:none}.fetured-post-widget{float:left;width:100%}.fetured-post-widget ul{padding:0;margin:0;list-style:none}.fetured-post-widget ul li{display:block;overflow:hidden;padding:16px 0 0}.fetured-post-widget ul li:hover .thumb img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1);opacity:.5}.fetured-post-widget ul li:hover .text-col a{text-decoration:none}.fetured-post-widget ul li:first-child{padding:0}.fetured-post-widget ul li .thumb{float:left;overflow:hidden;background:#000;margin:0 15px 0 0}.fetured-post-widget ul li .text-col{overflow:hidden;padding:0}.fetured-post-widget ul li .text-col a{display:block;font:400 16px/22px "Patua One",cursive;color:#222;padding:0 0 7px}.fetured-post-widget ul li .text-col span{float:left;font:400 12px/12px Roboto,sans-serif;color:#444;padding:0 15px 0 0}.fetured-post-widget ul li .text-col span .fa{padding:0 5px 0 0;color:#ccc}.categories-widget{float:left;width:100%}.categories-widget ul{padding:0;margin:0;list-style:none}.categories-widget ul li{display:block;padding:12px 0;border-bottom:1px dashed #d6d6d6}.categories-widget ul li:first-child{padding:0 0 12px}.categories-widget ul li a{text-decoration:none;font:400 16px/16px "Patua One",cursive;color:#222;display:block}.categories-widget ul li a .fa{padding:0 8px 0 0;font-size:10px}.categories-widget ul li a:hover{text-decoration:none}.archives-widget{float:left;width:100%}.archives-widget ul{padding:0;margin:0;list-style:none}.archives-widget ul li{display:block;padding:12px 0;border-bottom:1px dashed #ccc}.archives-widget ul li:first-child{padding:0 0 12px}.archives-widget ul li a{font:400 16px/16px "Patua One",cursive;color:#222;display:block;text-decoration:none}.archives-widget ul li a .fa{padding:0 6px 0 0;font-size:5px}.archives-widget ul li a span{text-align:right;float:right}.archives-widget ul li a:hover{text-decoration:none}.latest-widget{float:left;width:100%}.latest-widget ul{padding:0;margin:0;list-style:none}.latest-widget ul li{display:block;padding:12px 0;overflow:hidden;border-bottom:1px dashed #ccc}.latest-widget ul li:hover a{text-decoration:none}.latest-widget ul li:first-child{padding:0 0 12px}.latest-widget ul li a{display:block;text-decoration:none;font:400 16px/16px "Patua One",cursive;color:#444;padding:0 0 10px}.latest-widget ul li span{float:left;padding:0 18px 0 0;font:italic 400 12px/12px Roboto,sans-serif;color:#444}.latest-widget ul li span .fa{padding:0 5px 0 0}.instagram-widget{float:left;width:100%}.instagram-widget ul{padding:0;margin:0 -5px 0 0;list-style:none}.instagram-widget ul li{float:left;padding:0;margin:0 4px 4px 0;overflow:hidden}.instagram-widget ul li:hover img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1);opacity:.5}.tags-widget{float:left;width:100%}.tags-widget a{margin:0 5px 5px 0;border:1px solid #ccc;text-decoration:none;padding:10px 18px;font:400 16px/16px "Patua One",cursive;color:#222;float:left}.tags-widget a:hover{color:#222;border-color:transparent;text-decoration:none}.quote-section{float:left;width:100%}.quote-section button[type=submit],.quote-section input[type=submit]{margin:0}.quote-section h2{margin:0 0 20px}.about-style-1{float:left;width:100%}.about-welcome-row{float:left;width:100%}.about-welcome-row h2{margin:0 0 20px}.about-welcome-row h2 span{display:block}.about-welcome-frame{float:right;width:100%;padding:0 80px 0 0;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;position:relative}.about-welcome-frame:hover img{margin:0 0 0 20px}.about-welcome-frame:before{content:"";position:absolute;right:0;top:-30px;width:525px;height:326px;border:10px solid}.about-welcome-frame img{position:relative}.about-welcome-frame .caption{position:absolute;left:30px;bottom:25px}.about-welcome-frame .caption .fa{float:left;font-size:18px;color:#fff;width:40px;height:40px;border:3px solid #fff;text-align:center;line-height:37px;border-radius:100%;margin:9px 10px 0 0;text-indent:4px}.about-welcome-frame .caption .text-col{overflow:hidden;padding:0;float:left}.about-welcome-frame .caption .text-col h3{margin:0}.about-welcome-frame .caption .text-col p{margin:0}.about-welcome-frame .caption .text-col h3 a,.about-welcome-frame .caption .text-col p{color:#fff}.about-welcome-row .modal-dialog{width:1005px}.about-welcome-row .modal-header{padding:0;border:0}.about-welcome-row .modal-body{border:0;padding:0}.about-welcome-row .close{width:30px;height:30px;background:#fff;text-align:center;line-height:30px;text-shadow:none;opacity:1;position:absolute;right:-30px;top:0}.about-welcome-row .modal-content{border-radius:0;background:0 0}.about-welcome-video-row{float:left;width:100%;margin:50px 0 80px}.about-video-box{float:left;width:100%}.about-video-box:hover h3 a{text-decoration:none}.about-video-box .frame{margin-bottom:10px;background:#000}.about-video-box .frame:hover img{transform:scale(1.1);-moz-transform:scale(1.1);-webkit-transform:scale(1.1);opacity:.5}.about-video-box .frame .caption{position:absolute;bottom:15px;right:15px}.about-video-box .frame .caption .fa{float:left;font-size:18px;color:#fff;width:40px;height:40px;border:3px solid #fff;text-align:center;line-height:37px;border-radius:100%;margin:9px 10px 0 0;text-indent:4px}.about-video-box .modal-dialog{width:1005px}.about-video-box .modal-header{padding:0;border:0}.about-video-box .modal-body{border:0;padding:0}.about-video-box .close{width:30px;height:30px;background:#fff;text-align:center;line-height:30px;text-shadow:none;opacity:1;position:absolute;right:-30px;top:0}.about-video-box .modal-content{border-radius:0;background:0 0}.about-video-box h3{margin:0}.about-services-setting{background:url(../images/pattren.gif) repeat left top;padding:80px 0}.about-services-setting h2{color:#fff;margin:0 0 20px}.facts-row{float:left;width:100%;padding:14px 0}.facts-row strong.number{display:block;font:400 48px/48px "Patua One",cursive;color:#333}.facts-row span{font:400 18px/18px "Patua One",cursive;color:#333;display:block}.facts-row img{float:right;margin:5px 0 0}.fact-box{float:left;width:100%;border-right:1px solid #333;padding:30px 50px}.fact-box .holder{float:left}.testimonial-space{margin:80px 0 50px}.team-space{background:#222}.team-space .team-box-style-1{width:100%}.FONTS{font-family:roboto,sans-serif;font-family:patua one,cursive}.cart-box,.cart-box a,.checkout-box,.checkout-box a,.gallery-section .frame a.link,.gallery-section .frame:after,.gallery-section .frame:before,.like-box,.like-box a,.pagination-col .pagination>li>a,.post-time ul li a.comment-reply-link,.product-box,.product-box .frame img,.share-post ul li a,.slider-frame .owl-next:before,.slider-frame .owl-prev:before,.slider-frame .owl-theme .owl-controls .owl-nav [class*=owl-],.subscribe-box a.btn-home,.tags a,button[type=submit],input[type=submit]{transition:all .5s ease-in;-moz-transition:all .5s ease-in;-webkit-transition:all .5s ease-in}#nav li,#nav li a:before,#nav li ul,#nav li:hover>a,.about-video-box .frame img,.about-video-box h3 a,.about-welcome-frame img,.archives-widget ul li a,.call-number-section strong.number,.categories-widget ul li a,.documents-box a.download,.features-services-box,.features-services-box .frame img,.features-services-box .text-box h3 a,.fetured-post-widget ul li .text-col a,.fetured-post-widget ul li .thumb img,.header-topbar .left-col a,.header-topbar .topbar-social ul li a,.header-topbar .topbar-social ul li a .fa,.instagram-widget ul li img,.latest-widget ul li a,.left-menu ul li a,.news-media-section .box .frame a.link,.news-media-section .box .frame:after,.news-media-section .box .frame:before,.post-box .frame img,.post-box .text-box h2 a,.post-box a.read-post,.recent-widget ul li .text-col a,.recent-widget ul li .text-col span,.recent-widget ul li .thumb img,.services-box .services-icon img,.services-box .services-icon:after,.services-box .services-icon:before,.services-detail .frame img,.services-widget ul li a,.tags-widget a,.team-box-style-1 .frame img,.team-box-style-1 .text-box h3 a,.team-detail .frame img,.testimonial-box .round-thumb img,.testimonial-style-1-box .owl-theme .owl-dots .owl-dot span,.welcome-section .inner-col .frame img{transition:all .5s ease-in;-moz-transition:all .5s ease-in;-webkit-transition:all .5s ease-in}.services-box .text-box ul li{list-style:none;text-align:left;background:url(../images/check-mark.png);background-repeat:no-repeat;background-position:1px 6px;padding:2px 0 2px 20px}.list-common li{list-style:none;background:url(../images/check-mark.png);background-repeat:no-repeat;background-position:1px 6px;padding:4px 0 4px 20px;font-size:16px}.features-services-box{margin-bottom:30px;min-height:280px}#home-banner .owl-controls .owl-nav{position:absolute;top:40%;width:100%}#home-banner .owl-controls .owl-nav div:before{position:absolute;content:"";padding:13px;box-shadow:4px -4px 0 0 #fff inset;-webkit-box-shadow:4px -4px 0 0 #fff inset;-moz-box-shadow:4px -4px 0 0 #fff inset;border:solid transparent;border-width:0;transform:rotate(45deg);margin:0 0 0 -5px}#home-banner .owl-controls .owl-nav div.owl-prev{left:20px;position:absolute}#home-banner .owl-controls .owl-nav div.owl-next{right:40px;position:absolute}#home-banner .owl-controls .owl-dots{position:absolute;bottom:0;left:50%}.common-carousel-control .owl-controls .owl-nav{position:absolute;width:100%;top:40%}#home-banner .owl-controls .owl-nav div,.common-carousel-control .owl-controls .owl-nav div{background:0 0!important;background-color:transparent!important;font-size:0}.common-carousel-control .owl-controls .owl-nav div:before{position:absolute;content:"";padding:8px;box-shadow:4px -4px 0 0 #fff inset;-webkit-box-shadow:4px -4px 0 0 #fff inset;-moz-box-shadow:4px -4px 0 0 #fff inset;border:solid transparent;border-width:0 0 2rem 2rem;transform:rotate(45deg);margin:-4px 0 0 -24px}#home-banner .owl-controls .owl-nav div.owl-next:before,.common-carousel-control .owl-controls .owl-nav div.owl-next:before{transform:rotate(225deg)}.common-carousel-control .owl-controls .owl-nav div.owl-prev{position:absolute;left:-30px}.common-carousel-control .owl-controls .owl-nav div.owl-next{position:absolute;right:-45px}.pad-top-40{padding-top:40px}.pad-bot-60{padding-bottom:60px}.home-services .features-services-box .text-box h3{font-size:20px!important}.home-services .features-services-box{min-height:240px}.no-gutter .col-md-12,.no-gutter .col-md-6{padding-left:5px;padding-right:5px}.get-quote-footer textarea{height:80px!important}.full-width{width:100%}.about-page .about-welcome-frame img{max-width:130%}.about-page .about-welcome-frame:before{right:-20px;width:395px;height:239px}.pad-top-80{padding-top:80px}.pad-bot-110{padding-bottom:110px}.text-primary{color:#bc1b1b!important}.directors-desk img{margin-bottom:5px}.maxwidth{max-width:100%}.pad-bot-20{padding-bottom:20px}.facility-services .features-services-box{min-height:356px}.footer-map iframe{height:285px}@media (min-width:768px){.footer-logo img{position:absolute;top:-41px;width:40%}}.mob-foot{display:none}@media only screen and (max-width:768px) and (min-width:240px){.mob-foot{display:block;position:fixed;height:50px;bottom:0;width:100%;background:#000;padding:10px 4px;z-index:99999}.mob-foot div{width:48%;display:inline-block;text-align:center}.mob-foot div a{color:#fff;padding:0!important}.phoneicon{width:33px;height:33px;padding-bottom:2px}.whatsappicon{width:35px;height:35px;padding-bottom:2px}.common-carousel-control .owl-controls .owl-nav div.owl-next{right:0}.common-carousel-control .owl-controls .owl-nav div.owl-prev{left:0}}
+@import url(https://fonts.googleapis.com/css?family=Patua+One|Roboto:300,300i,400,400i,900);
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff
+}
+
+body h1 a,
+body h2 a,
+body h3 a,
+body h4 a,
+body h5 a,
+body h6 a {
+    text-decoration: none;
+    color: #333
+}
+
+body h1 a:hover,
+body h2 a:hover,
+body h3 a:hover,
+body h4 a:hover,
+body h5 a:hover,
+body h6 a:hover {
+    text-decoration: none;
+    color: #333
+}
+
+body h1 {
+    font: 400 48px patua one, cursive;
+    color: #333;
+    margin: 0
+}
+
+body h2 {
+    font: 400 36px patua one, cursive;
+    color: #333;
+    margin: 0
+}
+
+body h3 {
+    font: 400 26px patua one, cursive;
+    color: #333;
+    margin: 0 0 15px
+}
+
+body h4 {
+    font: 400 22px patua one, cursive;
+    color: #333;
+    margin: 0 0 15px
+}
+
+body h5 {
+    font: 400 18px patua one, cursive;
+    color: #333;
+    margin: 0 0 8px
+}
+
+body h6 {
+    font: 400 16px patua one, cursive;
+    color: #333;
+    margin: 0 0 10px
+}
+
+body p {
+    font: 400 15px/24px Roboto, sans-serif;
+    color: #666;
+    margin: 0 0 15px
+}
+
+body p a {
+    text-decoration: none;
+    color: #666
+}
+
+input[type=date],
+input[type=email],
+input[type=image],
+input[type=name],
+input[type=password],
+input[type=phone],
+input[type=search],
+input[type=tel],
+input[type=text] {
+    float: left;
+    width: 100%;
+    border: 2px solid #ccc;
+    height: 50px;
+    border-radius: 2px;
+    padding: 0 20px;
+    margin: 0 0 20px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    font: 400 15px roboto, sans-serif;
+    color: #777
+}
+
+body select {
+    float: left;
+    width: 100%;
+    border: 2px solid #ccc;
+    height: 50px;
+    border-radius: 2px;
+    padding: 0 20px;
+    margin: 0 0 20px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    font: 400 15px roboto, sans-serif;
+    color: #777
+}
+
+body textarea {
+    float: left;
+    width: 100%;
+    border: 2px solid #ccc;
+    resize: none;
+    height: 180px;
+    border-radius: 2px;
+    padding: 15px 20px;
+    margin: 0 0 20px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    font: 400 15px roboto, sans-serif;
+    color: #777
+}
+
+button[type=submit],
+input[type=submit] {
+    float: right;
+    padding: 13px 35px;
+    color: #fff;
+    border: 0;
+    margin: 0 0 20px;
+    text-transform: uppercase;
+    font: 700 16px roboto, sans-serif
+}
+
+button[type=submit]:hover,
+input[type=submit]:hover {
+    background: #222;
+    color: #fff
+}
+
+input::-webkit-input-placeholder {
+    color: #777;
+    opacity: 1
+}
+
+input:-moz-placeholder {
+    color: #777;
+    opacity: 1
+}
+
+input::-moz-placeholder {
+    color: #777;
+    opacity: 1
+}
+
+input:-ms-input-placeholder {
+    color: #777;
+    opacity: 1
+}
+
+textarea::-webkit-input-placeholder {
+    color: #777;
+    opacity: 1
+}
+
+textarea:-moz-placeholder {
+    color: #777;
+    opacity: 1
+}
+
+textarea::-moz-placeholder {
+    color: #777;
+    opacity: 1
+}
+
+textarea:-ms-input-placeholder {
+    color: #777;
+    opacity: 1
+}
+
+.frame {
+    position: relative;
+    float: left;
+    width: 100%;
+    overflow: hidden
+}
+
+.frame img {
+    display: block;
+    width: 100%;
+    height: auto
+}
+
+.slider-frame {
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+    overflow: hidden
+}
+
+.slider-frame img {
+    display: block;
+    width: 100%
+}
+
+.slider-frame .owl-theme .owl-controls .owl-nav [class*=owl-] {
+    background: #fff;
+    border-radius: 0;
+    margin: auto;
+    padding: 0;
+    border: 2px solid;
+    font-size: 0
+}
+
+.slider-frame .owl-next {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    bottom: 0;
+    width: 50px;
+    height: 50px
+}
+
+.slider-frame .owl-next:before {
+    content: "\f178";
+    font-size: 24px;
+    display: block;
+    line-height: 46px;
+    text-align: center;
+    font-family: FontAwesome
+}
+
+.slider-frame .owl-next:hover:before,
+.slider-frame .owl-prev:hover:before {
+    color: #fff
+}
+
+.slider-frame .owl-prev {
+    position: absolute;
+    left: 10px;
+    top: 0;
+    bottom: 0;
+    width: 50px;
+    height: 50px
+}
+
+.slider-frame .owl-prev:before {
+    content: "\f177";
+    font-size: 24px;
+    display: block;
+    line-height: 46px;
+    text-align: center;
+    font-family: FontAwesome
+}
+
+.video-frame {
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+    overflow: hidden
+}
+
+.link-post-frame {
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+    overflow: hidden
+}
+
+embed,
+iframe {
+    width: 100%;
+    border: 0;
+    height: 450px
+}
+
+.text-box {
+    float: left;
+    width: 100%
+}
+
+body blockquote {
+    float: left;
+    width: 100%;
+    padding: 30px 70px;
+    border: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    font: italic 24px/36px Roboto, sans-serif;
+    color: #fff;
+    margin: 0 0 20px;
+    position: relative
+}
+
+body blockquote p {
+    margin: 0;
+    font: italic 24px/36px Roboto, sans-serif;
+    color: #fff
+}
+
+body blockquote:before {
+    content: "";
+    position: absolute;
+    left: 30px;
+    top: 40px;
+    background: url(../images/qout-img.png) no-repeat left top;
+    width: 89px;
+    height: 70px
+}
+
+.special-manager {
+    float: left;
+    width: 100%
+}
+
+.btn-row {
+    float: left;
+    width: 100%;
+    text-align: center
+}
+
+body table {
+    float: left;
+    width: 100%;
+    margin: 0 0 30px
+}
+
+body table td,
+body table th {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+body table td a,
+body table th a {
+    color: #222
+}
+
+body table td a:hover,
+body table th a:hover {
+    text-decoration: none;
+    color: #222
+}
+
+.donation-summary {
+    float: left;
+    width: 100%;
+    border: 1px solid #ccc;
+    margin: 0 0 50px;
+    border-bottom: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+.donation-summary dd {
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;
+    float: right;
+    width: 50%
+}
+
+.donation-summary dt {
+    padding: 10px 20px;
+    background: #f9f9f9;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    float: left;
+    width: 50%
+}
+
+.btn-style-1 {
+    font: 400 18px/18px "Patua One", cursive;
+    color: #fff;
+    position: relative;
+    float: left;
+    padding: 13px 26px 14px;
+    z-index: 11;
+    text-decoration: none;
+    transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    overflow: hidden
+}
+
+.btn-style-1:hover {
+    color: #222;
+    text-decoration: none
+}
+
+.btn-style-1:hover:before {
+    opacity: 1;
+    width: 100%;
+    left: 0;
+    transform: rotate(0) scaleY(7)
+}
+
+.btn-style-1:before {
+    content: "";
+    position: absolute;
+    left: -12px;
+    top: -3px;
+    width: 35%;
+    height: 100%;
+    background-color: #fff;
+    z-index: -1;
+    transform: rotate(-33deg) scaleY(1);
+    transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    opacity: 0
+}
+
+.heading-center {
+    float: left;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    padding: 60px 0 30px
+}
+
+.heading-center:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 60px
+}
+
+.heading-center h2 {
+    margin: 0 0 15px
+}
+
+.heading-center em {
+    font: italic 400 16px/16px Roboto, sans-serif;
+    color: #666;
+    display: block
+}
+
+#header {
+    float: left;
+    width: 100%;
+    background: #222
+}
+
+.header-topbar {
+    float: left;
+    width: 100%;
+    padding: 10px 0
+}
+
+.header-topbar .holder {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #555;
+    padding-bottom: 10px
+}
+
+.header-topbar .left-col {
+    float: left
+}
+
+.header-topbar .left-col a {
+    float: left;
+    text-decoration: none;
+    font: 400 14px/25px Roboto, sans-serif;
+    color: #ccc;
+    padding: 0 30px 0 0
+}
+
+.header-topbar .left-col a:hover {
+    color: #fff
+}
+
+.header-topbar .left-col a .fa {
+    padding: 0 5px 0 0
+}
+
+.header-topbar .topbar-social {
+    float: left
+}
+
+.header-topbar .topbar-social strong.title {
+    float: left;
+    font: 400 14px/25px Roboto, sans-serif;
+    color: #ccc;
+    padding: 0 5px 0 0
+}
+
+.header-topbar .topbar-social ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    float: left
+}
+
+.header-topbar .topbar-social ul li {
+    float: left;
+    padding: 0 5px 0 0
+}
+
+.header-topbar .topbar-social ul li a {
+    width: 25px;
+    height: 25px;
+    padding: 0;
+    border: 1px solid #555;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 23px;
+    color: #666;
+    font-size: 13px;
+    text-decoration: none
+}
+
+.header-topbar .topbar-social ul li a:hover {
+    border-color: transparent
+}
+
+.header-topbar .topbar-social ul li a:hover .fa {
+    color: #fff
+}
+
+.header-topbar .topbar-social ul li a .fa {
+    color: #666;
+    padding: 0
+}
+
+.header-topbar .right-col {
+    float: right
+}
+
+.header-topbar .right-col a {
+    float: left;
+    text-decoration: none;
+    font: 400 14px/25px Roboto, sans-serif;
+    color: #ccc;
+    padding: 0 0 0 30px
+}
+
+.header-topbar .right-col a .fa {
+    padding: 0 5px 0 0
+}
+
+.logo-section {
+    float: left;
+    width: 100%;
+    padding: 5px 0 15px
+}
+
+strong.logo {
+    float: left
+}
+
+.logo-section .right-col {
+    float: right;
+    margin: 13px 0 0
+}
+
+.logo-section .right-col a.btn-style-1 {
+    float: right;
+    margin: 0 0 0 15px
+}
+
+.logo-section .right-col form {
+    float: right;
+    width: 262px;
+    position: relative;
+    margin: 2px 0 0
+}
+
+.logo-section .right-col form input[type=text] {
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 35px;
+    padding: 0 40px 0 13px;
+    font: 400 13px roboto, sans-serif;
+    margin: 0
+}
+
+.logo-section .right-col form button[type=submit] {
+    position: absolute;
+    right: 0;
+    top: 7px;
+    height: 26px;
+    width: 40px;
+    line-height: 26px;
+    padding: 0;
+    background: 0 0;
+    font-size: 14px;
+    color: #222;
+    text-align: center;
+    border-left: 1px solid #ccc;
+    margin: 0;
+    padding: 0 0 7px
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    outline: 0;
+    -moz-outline: none;
+    -webkit-outline: none
+}
+
+.navigation-section {
+    float: left;
+    width: 100%
+}
+
+#nav {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: block;
+    text-align: center;
+    width: 100%
+}
+
+#nav li {
+    display: inline-block;
+    float: none;
+    padding: 0;
+    position: relative
+}
+
+#nav li:first-child {
+    background: 0 0
+}
+
+#nav li a {
+    font: 400 20px/20px "Patua One", cursive;
+    color: #fff;
+    text-decoration: none;
+    padding: 16px 22px;
+    display: block;
+    position: relative;
+    z-index: 99
+}
+
+#nav li.active a {
+    color: #fff
+}
+
+#nav li.active ul li a {
+    color: #222
+}
+
+#nav li.active ul li a {
+    background: 0 0;
+    color: #333
+}
+
+#nav li:hover>a {
+    color: #fff;
+    background: #222
+}
+
+#nav li ul li a:hover,
+#nav li ul li:hover>a {
+    text-decoration: none;
+    color: #fff;
+    background: #222
+}
+
+#nav li ul {
+    position: absolute;
+    left: -100%;
+    top: 100%;
+    width: 220px;
+    border: 1px solid #ccc;
+    background: #fff;
+    padding: 0;
+    list-style: none;
+    z-index: 10;
+    opacity: 0;
+    visibility: hidden
+}
+
+#nav li:hover>ul {
+    opacity: 1;
+    visibility: visible;
+    left: 0
+}
+
+#nav li:hover ul li>ul {
+    left: 100%
+}
+
+#nav li ul li>ul {
+    position: absolute;
+    left: 100%;
+    top: 0;
+    width: 220px;
+    padding: 0
+}
+
+#nav li ul li {
+    float: none;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: 0 0
+}
+
+#nav li ul li a {
+    background: 0 0;
+    font: 400 20px/20px "Patua One", cursive;
+    text-align: left;
+    padding: 12px;
+    display: block;
+    border-top: 1px solid #ccc;
+    padding: 15px 10px;
+    margin: 0;
+    color: #333
+}
+
+.navigation-section .navbar-inverse {
+    background-color: transparent;
+    border-color: transparent
+}
+
+.navigation-section .navbar {
+    border-radius: 0
+}
+
+.navigation-section .navbar {
+    border: 0;
+    margin-bottom: 0;
+    min-height: 0
+}
+
+.navbar-inverse .navbar-form,
+.navigation-section .navbar-inverse .navbar-collapse {
+    background: 0 0;
+    padding: 0
+}
+
+.navigation-section .navbar-inverse .navbar-nav>.active>a,
+.navigation-section .navbar-inverse .navbar-nav>.active>a:focus,
+.navigation-section .navbar-inverse .navbar-nav>.active>a:hover {
+    background: #222;
+    color: #fff
+}
+
+.logo-section .modal-dialog {
+    width: 1005px
+}
+
+.logo-section .modal-content {
+    background: #fff url(../images/popup-img.jpg) no-repeat left top;
+    border-radius: 0;
+    border: 0;
+    float: left;
+    width: 100%;
+    padding: 50px 30px 0 0
+}
+
+.logo-section .modal-header {
+    padding: 0;
+    border: 0
+}
+
+.logo-section .close {
+    background: #222;
+    font-size: 16px;
+    text-shadow: none;
+    width: 40px;
+    height: 40px;
+    opacity: 1;
+    position: absolute;
+    right: 5px;
+    top: 7px;
+    z-index: 9
+}
+
+.logo-section .close:focus,
+.logo-section .close:hover {
+    opacity: 1
+}
+
+.logo-section .inner-box {
+    float: right;
+    width: 555px
+}
+
+.logo-section .modal-body {
+    padding: 0;
+    margin: 0;
+    float: left;
+    width: 100%
+}
+
+.logo-section .right-col .contact-form form {
+    float: left;
+    width: 100%
+}
+
+.blog-section {
+    float: left;
+    width: 100%
+}
+
+.sticky {
+    float: left;
+    width: 100%;
+    position: relative
+}
+
+.sticky:before {
+    content: "Sticky Post";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 17px 40px;
+    font: 400 22px/22px "Patua One", cursive;
+    color: #222;
+    z-index: 99
+}
+
+.post-box {
+    float: left;
+    width: 100%;
+    margin: 0 0 50px
+}
+
+.post-box .text-box h2 {
+    margin: 0 0 15px
+}
+
+.post-box:hover .frame img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: .5
+}
+
+.post-box:hover .text-box h2 a {
+    text-decoration: none
+}
+
+.post-box .frame {
+    background: #000;
+    margin-bottom: 20px
+}
+
+.post-meta {
+    float: left;
+    width: 100%;
+    margin: -3px 0 0
+}
+
+.post-meta ul {
+    padding: 0;
+    margin: 0 -20px 0 0;
+    list-style: none
+}
+
+.post-meta ul li {
+    float: left;
+    padding: 0;
+    margin: 0 20px 10px 0
+}
+
+.post-meta ul li a {
+    color: #222;
+    font: italic 400 14px roboto, sans-serif;
+    text-decoration: none
+}
+
+.post-meta ul li a .fa {
+    padding: 0 5px 0 0;
+    color: #aaa
+}
+
+.post-box a.read-post {
+    float: left;
+    font: 400 14px patua one, cursive;
+    color: #222;
+    padding: 10px 30px
+}
+
+.post-box a.read-post:hover {
+    text-decoration: none;
+    color: #fff;
+    background: #222
+}
+
+.post-box a.link-post {
+    display: block;
+    text-decoration: none;
+    font: 500 24px patua one, cursive
+}
+
+.mp3-player-box {
+    float: left;
+    width: 100%;
+    margin-bottom: 30px
+}
+
+.mp3-player-box .audioplayer-bar {
+    height: 7px;
+    margin: -3px 0 0
+}
+
+.mp3-player-box .audioplayer {
+    background: #222;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    color: #fff;
+    height: 47px;
+    position: relative;
+    text-shadow: 1px 1px 0 #000;
+    z-index: 1
+}
+
+.mp3-player-box .audioplayer {
+    color: #fff !important
+}
+
+.mp3-player-box .audioplayer:not(.audioplayer-playing) .audioplayer-playpause a {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: transparent -moz-use-text-color transparent;
+    border-image: none;
+    border-style: solid none solid solid;
+    border-width: .5em medium .5em .5em;
+    content: "";
+    height: 0;
+    left: 50%;
+    margin: -.5em 0 0 -.25em;
+    position: absolute;
+    top: 50%;
+    width: 0;
+    color: #fff
+}
+
+.mp3-player-box .audioplayer .audioplayer-time-current {
+    border-left: 0
+}
+
+.mp3-player-box .audioplayer-bar-played,
+.mp3-player-box .audioplayer-volume-adjust div div {
+    box-shadow: none
+}
+
+.mp3-player-box .audioplayer-time {
+    top: 0;
+    height: 78%;
+    padding: 8px 0 0;
+    text-shadow: none
+}
+
+.mp3-player-box .audioplayer-bar,
+.mp3-player-box .audioplayer-bar div,
+.mp3-player-box .audioplayer-volume-adjust div {
+    border-radius: 0
+}
+
+.mp3-player-box .audioplayer-bar-loaded {
+    background-color: #fff
+}
+
+.mp3-player-box .audioplayer-volume-adjust {
+    background: #444;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    cursor: default;
+    height: 6.25em;
+    left: 0;
+    position: absolute;
+    right: -1px;
+    top: -9999px
+}
+
+.mp3-player-box .audioplayer-bar,
+.mp3-player-box .audioplayer-volume-adjust>div {
+    box-shadow: none
+}
+
+.mp3-player-box .audioplayer-volume-button a {
+    outline: 0
+}
+
+.mp3-player-box .audioplayer:not(.audioplayer-mini) .audioplayer-playpause {
+    border: 0
+}
+
+.mp3-player-box .audioplayer-volume {
+    border-left: 0
+}
+
+.audioplayer-playing .audioplayer-playpause a:after,
+.mp3-player-box .audioplayer-playing .audioplayer-playpause a:before {
+    background-color: #fff
+}
+
+.mp3-player-box .audioplayer:not(.audioplayer-playing) .audioplayer-playpause:hover a {
+    border-color: transparent -moz-use-text-color transparent #fff
+}
+
+.mp3-player-box .audioplayer-volume-button:hover a:before {
+    border-color: transparent #fff transparent -moz-use-text-color
+}
+
+.mp3-player-box .audioplayer:not(.audioplayer-mute) .audioplayer-volume-button:hover a:after {
+    border-color: #fff
+}
+
+.mp3-player-box .audioplayer-volume-button:hover a {
+    background-color: #fff
+}
+
+.cp-categories,
+.tags {
+    float: left;
+    width: 100%;
+    margin: 0 0 7px
+}
+
+.cp-categories strong,
+.tags strong {
+    float: left;
+    font: 400 16px/24px Montserrat, sans-serif;
+    padding: 0 10px 0 0;
+    color: #222
+}
+
+.cp-categories a,
+.tags a {
+    font: 400 14px/14px Lato, sans-serif;
+    color: #222;
+    border: 1px solid #ccc;
+    float: left;
+    text-decoration: none;
+    padding: 4px 10px 6px;
+    margin: 0 10px 10px 0;
+    position: relative
+}
+
+.cp-categories a:hover,
+.tags a:hover {
+    border-color: transparent;
+    color: #fff;
+    text-decoration: none
+}
+
+.pagination-col {
+    float: left;
+    width: 100%;
+    margin: 0 0 80px
+}
+
+.pagination-col .pagination {
+    border-radius: 0;
+    display: block;
+    margin: 0;
+    text-align: center;
+    padding: 0
+}
+
+.pagination-col .pagination>li {
+    display: inline-block
+}
+
+.pagination-col .pagination>li:first-child>a,
+.pagination-col .pagination>li:first-child>span,
+.pagination-col .pagination>li:last-child>a,
+.pagination-col .pagination>li:last-child>span {
+    border-radius: 0;
+    margin-left: 0
+}
+
+.pagination-col .pagination>li>a,
+.pagination-col .pagination>li>span {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    font: 500 15px/15px "Patua One", cursive;
+    color: #777;
+    float: left;
+    margin-left: 0;
+    padding: 10px 15px;
+    position: relative;
+    text-decoration: none
+}
+
+.pagination-col .pagination li.active a {
+    color: #fff;
+    border-color: transparent
+}
+
+.pagination-col .pagination>li>a:focus,
+.pagination-col .pagination>li>a:hover,
+.pagination-col .pagination>li>span:focus,
+.pagination-col .pagination>li>span:hover {
+    color: #fff;
+    border-color: transparent
+}
+
+.blog-detail {
+    float: left;
+    width: 100%
+}
+
+.blog-detail p {
+    margin: 0 0 25px
+}
+
+.related-images {
+    float: left;
+    width: 100%;
+    margin: 0 0 10px
+}
+
+.share-post {
+    float: left;
+    width: 100%;
+    margin: 0 0 20px
+}
+
+.share-post strong.title {
+    float: left;
+    font: 400 14px/46px "Patua One", cursive;
+    text-transform: uppercase;
+    padding: 0 10px 0 0
+}
+
+.share-post ul {
+    float: left;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border-right: 1px solid #ccc
+}
+
+.share-post ul li {
+    float: left
+}
+
+.share-post ul li a {
+    font-size: 15px;
+    color: #999;
+    padding: 12px 10px;
+    border-left: 1px solid #ccc;
+    display: block;
+    text-decoration: none
+}
+
+.share-post ul li:hover a {
+    color: #fff;
+    border-color: transparent
+}
+
+.comment-form,
+.comments-form {
+    float: left;
+    width: 100%
+}
+
+.comment-form h3,
+.comments-form h3 {
+    margin: 0 0 5px
+}
+
+.comment-reply-title {
+    font: 500 24px patua one, cursive;
+    color: #222;
+    margin: 0 0 15px
+}
+
+.comment-reply-title small a {
+    display: inline-block;
+    margin: 0 0 0 30px;
+    padding: 7px 20px;
+    background: #222;
+    color: #fff;
+    text-decoration: none
+}
+
+.comment-reply-title small a:hover {
+    color: #fff
+}
+
+.cp-comments {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0 0 50px;
+    list-style: none
+}
+
+.cp-comments li {
+    padding: 0
+}
+
+.cp-comments li .children li {
+    display: block;
+    padding: 20px 0 0
+}
+
+.cp-comments li .children li .text {
+    margin: 0
+}
+
+.cp-comments li .children li .post-time ul li {
+    padding: 0 20px 0 0
+}
+
+.cp-comments li .thumb {
+    float: left;
+    margin: 0 20px 0 0
+}
+
+.cp-comments li .text {
+    overflow: hidden;
+    margin: 20px 0 0;
+    border-bottom: 1px solid #ccc;
+    padding: 0 0 20px
+}
+
+.cp-comments li .text h4 {
+    margin: 0 0 5px
+}
+
+.cp-comments li .text p {
+    margin: 0 0 8px
+}
+
+.post-time {
+    float: left;
+    width: 100%
+}
+
+.post-time ul {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+
+.post-time ul li {
+    float: left;
+    padding: 0 20px 0 0
+}
+
+.cp-comments li .post-time ul li p {
+    margin: 0;
+    font: 400 15px/24px Roboto, sans-serif;
+    color: #777
+}
+
+.post-time ul li a.comment-reply-link {
+    padding: 3px 15px 6px;
+    display: block;
+    color: #222;
+    font: 400 14px/14px "Patua One", cursive
+}
+
+.post-time ul li a.comment-reply-link:hover {
+    background: #222;
+    color: #fff;
+    text-decoration: none
+}
+
+.comment-respond {
+    float: left;
+    width: 100%
+}
+
+.cp-comments {
+    margin: 0 0 40px
+}
+
+.error-section {
+    float: left;
+    width: 100%;
+    padding: 100px 0 160px
+}
+
+.error-section .holder {
+    margin: 0 auto;
+    display: block;
+    overflow: hidden;
+    width: 556px;
+    text-align: center
+}
+
+.error-section .holder input[type=text] {
+    margin: 0
+}
+
+.error-section .holder strong.error-text {
+    display: block;
+    text-align: center;
+    font: 900 250px/180px "Patua One", cursive;
+    padding: 0 0 75px
+}
+
+.error-section .holder span.oops {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font: 900 48px/48px "Patua One", cursive;
+    color: #ccc;
+    padding: 0 0 20px
+}
+
+.error-section .holder b {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font: 600 36px/36px "Patua One", cursive;
+    padding: 0 0 20px
+}
+
+.error-section .holder strong.title {
+    display: block;
+    font: 500 24px/24px "Patua One", cursive;
+    color: #222;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0 0 50px
+}
+
+.error-section .holder form {
+    float: left;
+    width: 100%;
+    position: relative
+}
+
+.error-section .holder form button[type=submit] {
+    position: absolute;
+    right: 0;
+    top: 8px;
+    height: 33px;
+    width: 47px;
+    background: 0 0;
+    border-left: 1px solid #ccc;
+    padding: 0
+}
+
+.search-not-found .holder {
+    float: left;
+    text-align: left
+}
+
+.search-not-found .holder span.oops {
+    text-align: left
+}
+
+.search-not-found .holder strong.error-text {
+    font: 900 67px/67px Montserrat, sans-serif;
+    text-align: left;
+    padding: 0 0 30px
+}
+
+.search-not-found .holder strong.title {
+    font: 500 21px/21px Montserrat, sans-serif;
+    text-align: left;
+    padding: 0 0 30px
+}
+
+.countdown-box {
+    float: left;
+    width: 100%;
+    margin: 0 0 20px;
+    overflow: hidden
+}
+
+.countdown-box .countdown_section {
+    font: 400 12px/12px Roboto, sans-serif;
+    color: #fff;
+    padding: 8px 0 0;
+    margin: 0 5px 0 0;
+    float: left;
+    text-align: center;
+    position: relative;
+    width: 60px;
+    height: 60px
+}
+
+.countdown-box .countdown_amount {
+    font: 500 24px montserrat, sans-serif;
+    color: #fff;
+    font-weight: 100;
+    text-align: center
+}
+
+.blog-detail .countdown-box {
+    position: absolute;
+    right: 5px;
+    bottom: 10px;
+    margin: 0;
+    width: auto
+}
+
+.gallery-section {
+    float: left;
+    width: 100%
+}
+
+.gallery-section .frame {
+    margin-bottom: 50px
+}
+
+.gallery-section .frame a.link {
+    position: absolute;
+    left: -120%;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 14px;
+    z-index: 9
+}
+
+.gallery-section .frame:before {
+    content: "";
+    height: 50%;
+    left: 0;
+    margin: auto;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    top: -20%;
+    width: 100%;
+    background: #000
+}
+
+.gallery-section .frame:after {
+    content: "";
+    height: 50%;
+    left: 0;
+    margin: auto;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    bottom: -20%;
+    width: 100%;
+    background: #000
+}
+
+.gallery-section .frame:hover:before {
+    opacity: .5;
+    top: 0
+}
+
+.gallery-section .frame:hover:after {
+    bottom: 0;
+    opacity: .5
+}
+
+.gallery-section .frame:hover a.link {
+    left: 0
+}
+
+.team-section {
+    float: left;
+    width: 100%
+}
+
+.team-box {
+    float: left;
+    width: 100%;
+    margin: 0 0 50px
+}
+
+.team-box .frame {
+    margin: 0
+}
+
+.team-box .text-box {
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    text-align: center;
+    padding: 15px 0 17px
+}
+
+.team-box .text-box h2 {
+    margin: 0 0 10px
+}
+
+.team-box .text-box strong.title {
+    display: block;
+    text-align: center;
+    font: 500 14px/14px Montserrat, sans-serif;
+    color: #222
+}
+
+.team-detail {
+    float: left;
+    width: 100%;
+    padding: 0 0 50px
+}
+
+.team-detail .text-box {
+    float: left;
+    width: 100%
+}
+
+.team-detail .text-box strong.title {
+    display: block;
+    font: 400 22px/22px "Patua One", cursive;
+    color: #222;
+    padding: 0 0 20px
+}
+
+.team-detail .text-box ul {
+    padding: 0;
+    margin: 38px 0 0;
+    list-style: none;
+    overflow: hidden
+}
+
+.team-detail .text-box ul li {
+    display: block;
+    overflow: hidden;
+    padding: 28px 0 0
+}
+
+.team-detail .text-box ul li:first-child {
+    padding: 0
+}
+
+.team-detail .frame {
+    background: #000
+}
+
+.team-detail .frame:hover img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: .5
+}
+
+.progress-box {
+    float: left;
+    width: 100%
+}
+
+.progress-box strong.title-2 {
+    display: block;
+    font: 400 16px/16px "Patua One", cursive;
+    color: #222;
+    padding: 0 0 13px
+}
+
+.progress-box .progress {
+    height: 10px;
+    margin-bottom: 0;
+    overflow: inherit;
+    background-color: #e1e1e1;
+    border-radius: 0;
+    box-shadow: none
+}
+
+.progress-box .progress-bar {
+    box-shadow: none;
+    position: relative
+}
+
+.progress-box .progress-bar span {
+    display: block;
+    font: 400 16px/16px "Patua One", cursive;
+    color: #000;
+    position: absolute;
+    right: 0;
+    top: -29px
+}
+
+.form-section {
+    float: left;
+    width: 100%;
+    padding: 70px 0 80px
+}
+
+.form-section h2 {
+    margin: 0 0 20px
+}
+
+.form-section button[type=submit],
+.form-section input[type=submit] {
+    width: 100%;
+    padding: 13px 0;
+    margin: 0
+}
+
+.testimonial-section {
+    float: left;
+    width: 100%
+}
+
+.testimonial-section .pagination-col {
+    margin: 20px 0 80px
+}
+
+.words-from-director-wrapper {
+    display: flex;
+    flex-wrap: wrap
+}
+
+.words-from-director-wrapper .words-from-director-column {
+    display: flex;
+    position: relative
+}
+
+.testimonial-box {
+    float: left;
+    width: 100%;
+    background: #f0f0f0;
+    padding: 40px 40px 70px 40px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    position: relative;
+    margin: 0 0 30px;
+    flex: 1
+}
+
+.testimonial-box:before {
+    content: "";
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    background: url(../images/qout-img-2.png) no-repeat left top;
+    width: 89px;
+    height: 70px
+}
+
+.testimonial-box em {
+    display: block;
+    font: italic 300 22px/34px Roboto, sans-serif;
+    color: #555;
+    padding: 0 0 15px
+}
+
+.testimonial-box .round-thumb {
+    width: 112px;
+    height: 112px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    overflow: hidden;
+    margin: 0 15px 0 0;
+    background: #000;
+    margin: 0 auto
+}
+
+.testimonial-box .round-thumb:hover img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1)
+}
+
+.testimonial-box .round-thumb img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 100%
+}
+
+.testimonial-box .holder {
+    margin: 30px 0 0;
+    text-align: center
+}
+
+.testimonial-box .holder h2 {
+    margin: 0 0 5px;
+    font-size: 19px;
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+.testimonial-box .holder span {
+    font: italic 400 14px/14px Roboto, sans-serif;
+    color: #222;
+    display: block
+}
+
+.contact-section {
+    float: left;
+    width: 100%;
+    padding: 0 0 80px
+}
+
+.contact-2 .holder {
+    padding: 0 112px
+}
+
+.contact-2 .holder .btn-row {
+    display: block;
+    text-align: center;
+    margin: 0 0 50px
+}
+
+.contact-2 .contact-row {
+    padding: 0
+}
+
+.contact-2 .map-row .map_canvas {
+    height: 543px
+}
+
+.contact-2 .map-row {
+    margin: 0
+}
+
+.contact-2 .holder .btn-row input[type=submit] {
+    float: none;
+    display: inline-block;
+    margin: 0
+}
+
+.map-row {
+    float: left;
+    width: 100%;
+    margin: 0 0 50px
+}
+
+.map-row .map_canvas {
+    height: 420px;
+    width: 100%
+}
+
+.contact-row {
+    float: left;
+    width: 100%;
+    padding: 0 98px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+.contact-box {
+    background: #222;
+    float: left;
+    width: 100%;
+    padding: 50px 40px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+.contact-box h3 {
+    color: #fff
+}
+
+.contact-box ul {
+    padding: 0 0 10px;
+    margin: 0 0 20px;
+    list-style: none
+}
+
+.contact-box ul li {
+    display: block;
+    position: relative;
+    margin: 30px 0 0
+}
+
+.contact-box ul li:first-child {
+    margin: 0
+}
+
+.contact-box ul li img {
+    position: absolute;
+    left: 0;
+    top: 6px
+}
+
+.contact-box ul li .holder {
+    overflow: hidden;
+    padding: 0 0 0 58px
+}
+
+.contact-box ul li .holder p {
+    font: 400 16px/26px Roboto, sans-serif;
+    color: #fff;
+    margin: 0
+}
+
+.contact-box ul li .holder p a {
+    text-decoration: none;
+    font: 400 16px/26px Roboto, sans-serif;
+    color: #fff;
+    margin: 0
+}
+
+.contact-box .text-col {
+    float: left;
+    width: 100%;
+    padding: 0;
+    color: #fff
+}
+
+.contact-box .text-col p {
+    color: #fff;
+    margin: 0
+}
+
+.contact-form {
+    float: left;
+    width: 100%
+}
+
+.comingsoon {
+    float: left;
+    width: 100%;
+    background: url(../images/coming-soon-bg.jpg) no-repeat left top/cover;
+    padding: 89px 0
+}
+
+.comingsoon .holder {
+    width: 940px;
+    margin: 0 auto;
+    display: block;
+    overflow: hidden
+}
+
+strong.coming-logo {
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin: 0 0 50px
+}
+
+.comingsoon h1 {
+    display: block;
+    text-align: center;
+    color: #fff;
+    font: 700 72px/72px Montserrat, sans-serif;
+    margin: 0 0 15px
+}
+
+.comingsoon p {
+    font: 400 24px/32px Roboto, sans-serif;
+    color: #fff;
+    margin: 0 0 70px;
+    text-align: center
+}
+
+.comingsoon strong.title {
+    display: block;
+    text-align: center;
+    font: 500 36px/36px Montserrat, sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 0 0 15px
+}
+
+.comingsoon .countdown-box {
+    float: left;
+    width: 100%;
+    margin: 0 0 80px;
+    text-align: center
+}
+
+.comingsoon .countdown-box .countdown_section {
+    font: 900 16px/16px Montserrat, sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0 10px;
+    float: none;
+    display: inline-block;
+    text-align: center;
+    background: 0 0;
+    width: 150px;
+    height: auto
+}
+
+.comingsoon .countdown-box .countdown_section:before {
+    content: ":";
+    font: 400 60px/60px Roboto, sans-serif;
+    color: #fff;
+    position: absolute;
+    left: 160px;
+    right: 0;
+    margin: auto
+}
+
+.comingsoon .countdown-box .countdown_section:last-child:before {
+    display: none
+}
+
+.comingsoon .countdown-box .countdown_amount {
+    font: 900 72px/72px Montserrat, sans-serif;
+    color: #fff;
+    text-align: center;
+    display: block
+}
+
+.subscribe-box {
+    float: left;
+    width: 100%
+}
+
+.subscribe-box strong.subscribe {
+    display: block;
+    text-align: center;
+    font: 500 24px/24px Montserrat, sans-serif;
+    color: #fff;
+    padding: 0 0 5px
+}
+
+.subscribe-box span {
+    display: block;
+    text-align: center;
+    font: 400 14px/14px Roboto, sans-serif;
+    color: #fff;
+    padding: 0 0 20px
+}
+
+.subscribe-box form {
+    display: block;
+    margin: 0 auto 20px;
+    overflow: hidden;
+    width: 555px;
+    position: relative
+}
+
+.subscribe-box form input[type=submit] {
+    position: absolute;
+    right: 2px;
+    top: 2px;
+    font: 500 18px montserrat, sans-serif;
+    text-transform: capitalize;
+    padding: 12px 17px
+}
+
+.subscribe-box a.btn-home {
+    display: inline-block;
+    background: #fff;
+    color: #222;
+    padding: 18px 39px;
+    font: 400 14px/14px Montserrat, sans-serif;
+    text-decoration: none
+}
+
+.subscribe-box a.btn-home .fa {
+    padding: 0 5px 0 0
+}
+
+.subscribe-box a.btn-home:hover {
+    background: #222;
+    color: #fff
+}
+
+.product-section {
+    float: left;
+    width: 100%
+}
+
+.product-box {
+    float: left;
+    width: 100%;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin: 0 0 50px
+}
+
+.product-box .frame {
+    background: #000
+}
+
+.product-box .text-box {
+    float: left;
+    width: 100%;
+    padding: 20px 0;
+    text-align: center
+}
+
+.product-box .text-box strong.price {
+    display: inline-block;
+    text-align: center;
+    font: 500 18px/18px Montserrat, sans-serif;
+    padding: 0 0 18px
+}
+
+.product-box .text-box strong.cut-price {
+    display: inline-block;
+    text-align: center;
+    text-decoration: line-through;
+    padding: 0 0 18px 5px;
+    color: #222;
+    font: 500 18px/18px Montserrat, sans-serif
+}
+
+.cart-row {
+    float: left;
+    width: 100%;
+    text-align: center
+}
+
+.cart-box,
+.checkout-box,
+.like-box {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 40px;
+    color: #999;
+    margin: 0 3px;
+    border: 1px solid #ccc
+}
+
+.cart-box a,
+.checkout-box a,
+.like-box a {
+    text-decoration: none;
+    color: #999
+}
+
+.cart-box:hover,
+.checkout-box:hover,
+.like-box:hover {
+    color: #fff
+}
+
+.cart-box:hover a,
+.checkout-box:hover a,
+.like-box:hover a {
+    color: #fff
+}
+
+.product-box:hover {
+    box-shadow: 0 4px 5px rgba(0, 0, 0, .15);
+    -moz-box-shadow: 0 4px 5px rgba(0, 0, 0, .15);
+    -webkit-box-shadow: 0 4px 5px rgba(0, 0, 0, .15)
+}
+
+.product-box:hover .frame img {
+    opacity: .5
+}
+
+#banner {
+    float: left;
+    width: 100%;
+    position: relative
+}
+
+#banner img {
+    display: block;
+    width: 100%
+}
+
+#banner .caption {
+    position: absolute;
+    left: 0;
+    top: 190px;
+    width: 100%;
+    height: 100%
+}
+
+#banner .caption .inner-box {
+    float: left;
+    width: 565px
+}
+
+.center-text {
+    text-align: center;
+    margin: -30px 0 0
+}
+
+#banner .caption .inner-box .img-icon img {
+    width: auto;
+    display: block;
+    margin: 0 auto 30px
+}
+
+#banner .caption .inner-box h1 {
+    color: #fff;
+    font-size: 48px;
+    color: #fff;
+    text-shadow: 0 6px 4px rgba(0, 0, 0, .25)
+}
+
+#banner .caption .inner-box p {
+    color: #fff;
+    font: 300 18px/30px Roboto, sans-serif
+}
+
+#banner .caption .center-text a.btn-style-1 {
+    float: none;
+    display: inline-block;
+    margin: 0 2px;
+    padding: 15px 26px 16px
+}
+
+#banner .caption .inner-box .btn-row a.btn-style-1 {
+    margin: 0 10px 0 0;
+    padding: 15px 26px 16px
+}
+
+.features-services-setion {
+    float: left;
+    width: 100%;
+    padding: 60px 0;
+    background: #1c1c1c
+}
+
+.features-bg-none {
+    background: 0 0;
+    padding: 0
+}
+
+.features-bg-none .features-services-box {
+    margin-bottom: 30px
+}
+
+.features-services-box {
+    float: left;
+    width: 100%;
+    padding: 8px;
+    background: #333;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+.features-services-box .frame {
+    margin-bottom: 10px
+}
+
+.features-services-box .text-box {
+    padding-bottom: 5px
+}
+
+.features-services-box .text-box h3 {
+    margin: 0;
+    text-align: center;
+    display: block;
+    color: #ccc;
+    font-size: 22px
+}
+
+.features-services-box .text-box h3 a {
+    color: #ccc
+}
+
+.features-services-box:hover h3 a {
+    color: #222
+}
+
+.features-services-box:hover .frame img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1)
+}
+
+.left-menu {
+    float: left;
+    width: 100%
+}
+
+.heading-row {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0
+}
+
+.heading-row h3 {
+    margin: 0;
+    color: #fff
+}
+
+.left-menu ul {
+    float: left;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 0 15px;
+    list-style: none;
+    background: #222
+}
+
+.left-menu ul li {
+    display: block;
+    padding: 17px 0;
+    border-top: 1px solid #444;
+    position: relative
+}
+
+.left-menu ul li:first-child {
+    border: 0
+}
+
+.left-menu ul li a {
+    font: 400 18px/18px "Patua One", cursive;
+    color: #777;
+    text-decoration: none;
+    display: block
+}
+
+.left-menu ul li.active a {
+    text-decoration: none
+}
+
+.left-menu ul li.active:before {
+    content: "";
+    position: absolute;
+    left: -20px;
+    top: 0;
+    width: 5px;
+    height: 100%
+}
+
+.services-section .join-box {
+    text-align: center
+}
+
+.services-section .join-box .btn-style-1 {
+    float: none;
+    display: inline-block
+}
+
+.services-section .text-box .frame {
+    margin-bottom: 22px
+}
+
+.services-detail {
+    margin-bottom: 80px
+}
+
+.space-manager {
+    float: left;
+    width: 100%
+}
+
+.services-detail .frame {
+    background: #000
+}
+
+.services-detail .frame:hover img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: .5
+}
+
+.welcome-section {
+    float: left;
+    width: 100%;
+    padding: 50px 0
+}
+
+.welcome-section .inner-col {
+    width: 100%;
+    float: left;
+    padding: 0 50px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+.welcome-section .inner-col .frame {
+    position: relative
+}
+
+.welcome-section .inner-col .frame:hover img {
+    margin: 0 0 0 10px
+}
+
+.welcome-section .inner-col .frame:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 498px;
+    border: 15px solid
+}
+
+.welcome-section .inner-col .frame img {
+    position: relative
+}
+
+.welcome-section .inner-col .text-box {
+    padding: 0 0 0
+}
+
+.welcome-section .inner-col .text-box h2 {
+    margin: 0 0 20px
+}
+
+.welcome-section .inner-col .text-box p {
+    margin: 0 0 30px
+}
+
+.welcome-section .inner-col .text-box a.btn-style-1 {
+    background: #222;
+    color: #fff;
+    padding: 16px 30px
+}
+
+.services-section {
+    float: left;
+    width: 100%
+}
+
+.services-section .heading-center {
+    background: #222
+}
+
+.services-section .heading-center h2 {
+    color: #fff
+}
+
+.services-section .heading-center em {
+    color: #ccc
+}
+
+.services-section .inner-row {
+    float: left;
+    width: 100%;
+    background-image: url(../images/services-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    padding: 30px 0 80px
+}
+
+.services-box {
+    float: left;
+    width: 100%;
+    text-align: center;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    padding: 30px 20px;
+    margin-bottom: 30px
+}
+
+.services-box .services-icon {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    width: 97px;
+    margin-bottom: 20px;
+    overflow: hidden
+}
+
+.services-box .services-icon:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 0;
+    width: 90%;
+    height: 100%;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc
+}
+
+.services-box .services-icon:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 100%;
+    height: 90%;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc
+}
+
+.services-box .text-box h3 {
+    margin: 0 0 10px;
+    font-size: 22px
+}
+
+.services-box .text-box p {
+    margin: 0
+}
+
+.services-section .btn-row a.btn-style-1 {
+    float: none;
+    display: inline-block
+}
+
+.services-box:hover .services-icon:before {
+    width: 100%
+}
+
+.services-box:hover .services-icon:after {
+    height: 100%
+}
+
+.services-box:hover .services-icon img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1)
+}
+
+.call-number-section {
+    float: left;
+    width: 100%;
+    padding: 30px 0
+}
+
+.call-number-section strong.title {
+    display: block;
+    font: 400 26px/28px "Patua One", cursive;
+    color: #fff;
+    padding: 5px 0 0
+}
+
+.call-number-section strong.title span {
+    display: block
+}
+
+.call-number-section strong.number {
+    float: right;
+    background: #fff;
+    font: 400 36px/36px "Patua One", cursive;
+    color: #222;
+    padding: 19px 31px;
+    position: relative
+}
+
+.call-number-section strong.number:hover {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1)
+}
+
+.call-number-section strong.number:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 5px;
+    margin: auto;
+    top: 5px;
+    width: 90%;
+    height: 86%;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc
+}
+
+.call-number-section strong.number:after {
+    content: "";
+    position: absolute;
+    left: 5px;
+    right: 5px;
+    top: 0;
+    bottom: 5px;
+    margin: auto;
+    width: 95%;
+    height: 85%;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc
+}
+
+.news-media-section {
+    float: left;
+    width: 100%;
+    padding: 20px 0 50px
+}
+
+.news-media-section .box {
+    float: left;
+    width: 100%;
+    border: 2px solid #ccc;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin-bottom: 30px
+}
+
+.news-media-section .box strong.date {
+    float: left;
+    font: 900 14px/14px Roboto, sans-serif;
+    color: #888;
+    border-bottom: 2px solid;
+    padding: 0 16px 10px 0;
+    margin: 0 0 15px
+}
+
+.news-media-section .box h3 {
+    display: block;
+    clear: both;
+    font-size: 26px;
+    margin: 0 0 10px
+}
+
+.news-media-section .box .frame {
+    margin-bottom: 20px
+}
+
+.news-media-section .box a.btn-style-1 {
+    background: #fff;
+    color: #666;
+    border: 2px solid #ccc;
+    padding: 10px 15px;
+    font-size: 15px;
+    line-height: 15px
+}
+
+.news-media-section .box a.btn-style-1:hover {
+    border-color: transparent;
+    color: #333
+}
+
+.news-media-section .box .btn-style-1:hover:before {
+    border-color: transparent;
+    color: #fff
+}
+
+.news-media-section .box .frame a.link {
+    position: absolute;
+    left: -150%;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 50px;
+    color: #222;
+    font-size: 20px;
+    z-index: 9
+}
+
+.news-media-section .box .frame:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: -100%;
+    width: 94%;
+    height: 45%;
+    background: rgba(0, 0, 0, .7)
+}
+
+.news-media-section .box .frame:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: -100%;
+    width: 94%;
+    height: 45%;
+    background: rgba(0, 0, 0, .7)
+}
+
+.news-media-section .box:hover .frame:before {
+    top: 10px
+}
+
+.news-media-section .box:hover .frame:after {
+    bottom: 10px
+}
+
+.news-media-section .box:hover .frame a.link {
+    left: 0
+}
+
+.team-section {
+    float: left;
+    width: 100%;
+    background: #1c1c1c;
+    padding-bottom: 50px
+}
+
+.team-bg-none {
+    background: 0 0
+}
+
+.team-section .pagination-col {
+    margin: 20px 0 0
+}
+
+.team-section .container-fluid {
+    padding: 30px 60px 0;
+    clear: both
+}
+
+.team-section .heading-center {
+    background: #222
+}
+
+.team-section .heading-center h2 {
+    color: #fff
+}
+
+.team-section .heading-center em {
+    color: #ccc
+}
+
+.team-box-style-1 {
+    float: left;
+    width: 336px;
+    background: #fff;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+.team-box-style-1 .frame {
+    margin-bottom: 15px;
+    background: #000
+}
+
+.team-box-style-1 .text-box {
+    text-align: center
+}
+
+.team-box-style-1 .text-box h3 {
+    font-size: 26px;
+    margin: 0 0 5px
+}
+
+.team-box-style-1 .text-box span {
+    display: block;
+    font: 400 15px/15px Roboto, sans-serif;
+    color: #666;
+    padding: 0 0 5px
+}
+
+.team-box-style-1:hover .frame img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: .5
+}
+
+.team-box-style-1:hover .text-box h3 a {
+    text-decoration: none
+}
+
+.testimonial-row {
+    float: left;
+    width: 100%;
+    padding: 5px 0
+}
+
+.testimonial-row h2 {
+    margin: 0 0 15px;
+    text-align: center
+}
+
+.testimonial-style-1-box {
+    float: left;
+    width: 100%;
+    background-image: url(../images/testi-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    padding: 60px 45px 56px 80px;
+    position: relative
+}
+
+.testimonial-style-1-box em {
+    display: block;
+    color: #fff;
+    font: italic 24px/38px Roboto, sans-serif;
+    color: #fff;
+    padding: 0 0 25px
+}
+
+.testimonial-style-1-box:before {
+    content: "";
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    background: url(../images/testi-quote-icon.png) no-repeat left top;
+    width: 89px;
+    height: 70px
+}
+
+.round-frame {
+    width: 106px;
+    height: 106px;
+    border-radius: 100%;
+    border: 3px solid;
+    overflow: hidden;
+    margin: 0 auto
+}
+
+.round-frame img {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 100%
+}
+
+.text-col {
+    overflow: hidden;
+    padding: 18px 0 0;
+    text-align: center
+}
+
+.text-col strong.name {
+    display: block;
+    font: 400 26px/26px "Patua One", cursive;
+    color: #fff;
+    padding: 0 0 10px
+}
+
+.text-col em {
+    font: italic 400 15px/15px Roboto, sans-serif;
+    display: block;
+    color: #fff
+}
+
+.testimonial-style-1-box .owl-theme .owl-dots .owl-dot span {
+    width: 12px;
+    height: 12px;
+    margin: 0 7px;
+    background: #999
+}
+
+.documents-box {
+    float: left;
+    width: 100%;
+    border: 2px solid #ccc;
+    padding: 13px 5px 13px 15px;
+    margin-bottom: 5px
+}
+
+.documents-box .left-box {
+    float: left
+}
+
+.documents-box .left-box a {
+    text-decoration: none;
+    font: 400 18px patua one, cursive;
+    color: #333
+}
+
+.documents-box .left-box a span {
+    display: block
+}
+
+.documents-box a.download {
+    float: right;
+    font: 400 12px/12px "Patua One", cursive;
+    color: #fff;
+    padding: 11px 15px;
+    margin: 4px 0 0;
+    border: 2px solid #fff
+}
+
+.documents-box a.download:hover {
+    background: 0 0;
+    text-decoration: none;
+    border: 2px solid #ccc
+}
+
+.join-box {
+    float: left;
+    width: 100%;
+    background-image: url(../images/join-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    padding: 25px 20px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin: 15px 0 0
+}
+
+.join-box .left-box {
+    float: left
+}
+
+.join-box .left-box h3 {
+    font: 400 26px patua one, cursive;
+    color: #fff;
+    margin: 0
+}
+
+.join-box .left-box h3 span {
+    display: block
+}
+
+.join-box .left-box h3 a {
+    color: #fff
+}
+
+.join-box a.btn-style-1 {
+    float: right;
+    color: #333;
+    background: #fff;
+    margin: 10px 0 0
+}
+
+.spacer-col {
+    float: left;
+    padding: 0 98px;
+    width: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin: 0 0 80px
+}
+
+.spacer-col .join-box .left-box h3 {
+    line-height: 54px
+}
+
+#footer {
+    float: left;
+    width: 100%;
+    background: #1c1c1c;
+    padding: 80px 0 0
+}
+
+strong.footer-logo {
+    display: block;
+    margin: 0 0 15px
+}
+
+#footer .footer-box {
+    float: left;
+    width: 100%;
+    padding-bottom: 20px
+}
+
+#footer .footer-box p {
+    color: #999
+}
+
+#footer .footer-box h3 {
+    color: #ccc
+}
+
+.services-widget {
+    float: left;
+    width: 100%
+}
+
+.services-widget ul {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+
+.services-widget ul li {
+    display: block;
+    overflow: hidden;
+    padding: 9px 0 0
+}
+
+.services-widget ul li:first-child {
+    padding: 0
+}
+
+.services-widget ul li a {
+    text-decoration: none;
+    font: 400 16px/16px "Patua One", cursive;
+    color: #999
+}
+
+.services-widget ul li a .fa {
+    padding: 0 15px 0 0
+}
+
+.services-widget ul li a:hover {
+    color: #fff
+}
+
+.recent-widget {
+    float: left;
+    width: 100%
+}
+
+.recent-widget ul {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+
+.recent-widget ul li {
+    display: block;
+    overflow: hidden;
+    padding: 20px 0 0
+}
+
+.recent-widget ul li:first-child {
+    padding: 0
+}
+
+.recent-widget ul li .thumb {
+    float: left;
+    margin: 0 15px 0 0;
+    overflow: hidden
+}
+
+.recent-widget ul li .text-col {
+    overflow: hidden;
+    padding: 0
+}
+
+.recent-widget ul li .text-col a {
+    text-decoration: none;
+    font: 400 16px patua one, cursive;
+    color: #999;
+    display: block;
+    padding: 0 0 10px
+}
+
+.recent-widget ul li .text-col span {
+    float: left;
+    font: 400 12px/12px Roboto, sans-serif;
+    color: #777;
+    padding: 0 14px 0 0
+}
+
+.recent-widget ul li .text-col span .fa {
+    float: left;
+    padding: 0 5px 0 0
+}
+
+.recent-widget ul li:hover .thumb img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: .5
+}
+
+.recent-widget ul li:hover .text-col a {
+    text-decoration: none
+}
+
+.recent-widget ul li:hover span {
+    color: #fff
+}
+
+.footer-map {
+    float: left;
+    width: 100%
+}
+
+.footer-map .map_canvas {
+    width: 100%;
+    height: 250px
+}
+
+.copyrights-row {
+    float: left;
+    width: 100%;
+    background: #2c2c2c;
+    padding: 18px 0
+}
+
+.copyrights-row strong.copy {
+    display: block;
+    text-align: center;
+    font: 400 13px/13px Roboto, sans-serif;
+    color: #999
+}
+
+.copyrights-row strong.copy a {
+    text-decoration: none
+}
+
+#inner-banner {
+    float: left;
+    width: 100%;
+    background: url(../images/inner-banner.png) no-repeat left top;
+    padding: 85px 0;
+    margin-bottom: 60px;
+}
+
+#inner-banner h1 {
+    font: 400 40px/50px "Patua One", cursive;
+    color: #fff;
+    margin: 0;
+    float: left;
+}
+
+#inner-banner .breadcrumb {
+    padding: 0;
+    margin-bottom: 0;
+    list-style: none;
+    background-color: transparent;
+    border-radius: 0;
+    float: right
+}
+
+#inner-banner .breadcrumb li {
+    font: 400 15px/15px Roboto, sans-serif;
+    color: #fff
+}
+
+#inner-banner .breadcrumb li a {
+    font: 400 15px/15px Roboto, sans-serif;
+    color: #fff;
+    text-decoration: none
+}
+
+#inner-banner .breadcrumb>li+li::before {
+    padding: 0 5px;
+    color: #ccc;
+    content: ":"
+}
+
+.sidebar {
+    float: left;
+    width: 100%
+}
+
+.sidebar-box {
+    float: left;
+    width: 100%;
+    margin-bottom: 40px
+}
+
+.sidebar-box h3 {
+    margin: 0 0 15px
+}
+
+.search-box {
+    float: left;
+    width: 100%
+}
+
+.search-widget form {
+    float: left;
+    width: 100%;
+    position: relative
+}
+
+.search-widget form input[type=text] {
+    height: 45px;
+    font-size: 13px
+}
+
+.search-widget form button[type=submit] {
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-radius: 0 3px 3px 0;
+    padding: 0;
+    width: 45px;
+    height: 45px;
+    color: #222;
+    font-size: 16px;
+    line-height: 45px
+}
+
+.textwidget {
+    float: left;
+    width: 100%
+}
+
+.textwidget a.btn-more {
+    display: block;
+    font: 400 18px/18px "Patua One", cursive;
+    color: #333;
+    text-decoration: none
+}
+
+.fetured-post-widget {
+    float: left;
+    width: 100%
+}
+
+.fetured-post-widget ul {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+
+.fetured-post-widget ul li {
+    display: block;
+    overflow: hidden;
+    padding: 16px 0 0
+}
+
+.fetured-post-widget ul li:hover .thumb img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: .5
+}
+
+.fetured-post-widget ul li:hover .text-col a {
+    text-decoration: none
+}
+
+.fetured-post-widget ul li:first-child {
+    padding: 0
+}
+
+.fetured-post-widget ul li .thumb {
+    float: left;
+    overflow: hidden;
+    background: #000;
+    margin: 0 15px 0 0
+}
+
+.fetured-post-widget ul li .text-col {
+    overflow: hidden;
+    padding: 0
+}
+
+.fetured-post-widget ul li .text-col a {
+    display: block;
+    font: 400 16px/22px "Patua One", cursive;
+    color: #222;
+    padding: 0 0 7px
+}
+
+.fetured-post-widget ul li .text-col span {
+    float: left;
+    font: 400 12px/12px Roboto, sans-serif;
+    color: #444;
+    padding: 0 15px 0 0
+}
+
+.fetured-post-widget ul li .text-col span .fa {
+    padding: 0 5px 0 0;
+    color: #ccc
+}
+
+.categories-widget {
+    float: left;
+    width: 100%
+}
+
+.categories-widget ul {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+
+.categories-widget ul li {
+    display: block;
+    padding: 12px 0;
+    border-bottom: 1px dashed #d6d6d6
+}
+
+.categories-widget ul li:first-child {
+    padding: 0 0 12px
+}
+
+.categories-widget ul li a {
+    text-decoration: none;
+    font: 400 16px/16px "Patua One", cursive;
+    color: #222;
+    display: block
+}
+
+.categories-widget ul li a .fa {
+    padding: 0 8px 0 0;
+    font-size: 10px
+}
+
+.categories-widget ul li a:hover {
+    text-decoration: none
+}
+
+.archives-widget {
+    float: left;
+    width: 100%
+}
+
+.archives-widget ul {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+
+.archives-widget ul li {
+    display: block;
+    padding: 12px 0;
+    border-bottom: 1px dashed #ccc
+}
+
+.archives-widget ul li:first-child {
+    padding: 0 0 12px
+}
+
+.archives-widget ul li a {
+    font: 400 16px/16px "Patua One", cursive;
+    color: #222;
+    display: block;
+    text-decoration: none
+}
+
+.archives-widget ul li a .fa {
+    padding: 0 6px 0 0;
+    font-size: 5px
+}
+
+.archives-widget ul li a span {
+    text-align: right;
+    float: right
+}
+
+.archives-widget ul li a:hover {
+    text-decoration: none
+}
+
+.latest-widget {
+    float: left;
+    width: 100%
+}
+
+.latest-widget ul {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+
+.latest-widget ul li {
+    display: block;
+    padding: 12px 0;
+    overflow: hidden;
+    border-bottom: 1px dashed #ccc
+}
+
+.latest-widget ul li:hover a {
+    text-decoration: none
+}
+
+.latest-widget ul li:first-child {
+    padding: 0 0 12px
+}
+
+.latest-widget ul li a {
+    display: block;
+    text-decoration: none;
+    font: 400 16px/16px "Patua One", cursive;
+    color: #444;
+    padding: 0 0 10px
+}
+
+.latest-widget ul li span {
+    float: left;
+    padding: 0 18px 0 0;
+    font: italic 400 12px/12px Roboto, sans-serif;
+    color: #444
+}
+
+.latest-widget ul li span .fa {
+    padding: 0 5px 0 0
+}
+
+.instagram-widget {
+    float: left;
+    width: 100%
+}
+
+.instagram-widget ul {
+    padding: 0;
+    margin: 0 -5px 0 0;
+    list-style: none
+}
+
+.instagram-widget ul li {
+    float: left;
+    padding: 0;
+    margin: 0 4px 4px 0;
+    overflow: hidden
+}
+
+.instagram-widget ul li:hover img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: .5
+}
+
+.tags-widget {
+    float: left;
+    width: 100%
+}
+
+.tags-widget a {
+    margin: 0 5px 5px 0;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    padding: 10px 18px;
+    font: 400 16px/16px "Patua One", cursive;
+    color: #222;
+    float: left
+}
+
+.tags-widget a:hover {
+    color: #222;
+    border-color: transparent;
+    text-decoration: none
+}
+
+.quote-section {
+    float: left;
+    width: 100%
+}
+
+.quote-section button[type=submit],
+.quote-section input[type=submit] {
+    margin: 0
+}
+
+.quote-section h2 {
+    margin: 0 0 20px
+}
+
+.about-style-1 {
+    float: left;
+    width: 100%
+}
+
+.about-welcome-row {
+    float: left;
+    width: 100%
+}
+
+.about-welcome-row h2 {
+    margin: 0 0 20px
+}
+
+.about-welcome-row h2 span {
+    display: block
+}
+
+.about-welcome-frame {
+    float: right;
+    width: 100%;
+    padding: 0 80px 0 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    position: relative
+}
+
+.about-welcome-frame:hover img {
+    margin: 0 0 0 20px
+}
+
+.about-welcome-frame:before {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: -30px;
+    width: 525px;
+    height: 326px;
+    border: 10px solid
+}
+
+.about-welcome-frame img {
+    position: relative
+}
+
+.about-welcome-frame .caption {
+    position: absolute;
+    left: 30px;
+    bottom: 25px
+}
+
+.about-welcome-frame .caption .fa {
+    float: left;
+    font-size: 18px;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border: 3px solid #fff;
+    text-align: center;
+    line-height: 37px;
+    border-radius: 100%;
+    margin: 9px 10px 0 0;
+    text-indent: 4px
+}
+
+.about-welcome-frame .caption .text-col {
+    overflow: hidden;
+    padding: 0;
+    float: left
+}
+
+.about-welcome-frame .caption .text-col h3 {
+    margin: 0
+}
+
+.about-welcome-frame .caption .text-col p {
+    margin: 0
+}
+
+.about-welcome-frame .caption .text-col h3 a,
+.about-welcome-frame .caption .text-col p {
+    color: #fff
+}
+
+.about-welcome-row .modal-dialog {
+    width: 1005px
+}
+
+.about-welcome-row .modal-header {
+    padding: 0;
+    border: 0
+}
+
+.about-welcome-row .modal-body {
+    border: 0;
+    padding: 0
+}
+
+.about-welcome-row .close {
+    width: 30px;
+    height: 30px;
+    background: #fff;
+    text-align: center;
+    line-height: 30px;
+    text-shadow: none;
+    opacity: 1;
+    position: absolute;
+    right: -30px;
+    top: 0
+}
+
+.about-welcome-row .modal-content {
+    border-radius: 0;
+    background: 0 0
+}
+
+.about-welcome-video-row {
+    float: left;
+    width: 100%;
+    margin: 50px 0 80px
+}
+
+.about-video-box {
+    float: left;
+    width: 100%
+}
+
+.about-video-box:hover h3 a {
+    text-decoration: none
+}
+
+.about-video-box .frame {
+    margin-bottom: 10px;
+    background: #000
+}
+
+.about-video-box .frame:hover img {
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    opacity: .5
+}
+
+.about-video-box .frame .caption {
+    position: absolute;
+    bottom: 15px;
+    right: 15px
+}
+
+.about-video-box .frame .caption .fa {
+    float: left;
+    font-size: 18px;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border: 3px solid #fff;
+    text-align: center;
+    line-height: 37px;
+    border-radius: 100%;
+    margin: 9px 10px 0 0;
+    text-indent: 4px
+}
+
+.about-video-box .modal-dialog {
+    width: 1005px
+}
+
+.about-video-box .modal-header {
+    padding: 0;
+    border: 0
+}
+
+.about-video-box .modal-body {
+    border: 0;
+    padding: 0
+}
+
+.about-video-box .close {
+    width: 30px;
+    height: 30px;
+    background: #fff;
+    text-align: center;
+    line-height: 30px;
+    text-shadow: none;
+    opacity: 1;
+    position: absolute;
+    right: -30px;
+    top: 0
+}
+
+.about-video-box .modal-content {
+    border-radius: 0;
+    background: 0 0
+}
+
+.about-video-box h3 {
+    margin: 0
+}
+
+.about-services-setting {
+    background: url(../images/pattren.gif) repeat left top;
+    padding: 80px 0
+}
+
+.about-services-setting h2 {
+    color: #fff;
+    margin: 0 0 20px
+}
+
+.facts-row {
+    float: left;
+    width: 100%;
+    padding: 14px 0
+}
+
+.facts-row strong.number {
+    display: block;
+    font: 400 48px/48px "Patua One", cursive;
+    color: #333
+}
+
+.facts-row span {
+    font: 400 18px/18px "Patua One", cursive;
+    color: #333;
+    display: block
+}
+
+.facts-row img {
+    float: right;
+    margin: 5px 0 0
+}
+
+.fact-box {
+    float: left;
+    width: 100%;
+    border-right: 1px solid #333;
+    padding: 30px 50px
+}
+
+.fact-box .holder {
+    float: left
+}
+
+.testimonial-space {
+    margin: 80px 0 50px
+}
+
+.team-space {
+    background: #222
+}
+
+.team-space .team-box-style-1 {
+    width: 100%
+}
+
+.FONTS {
+    font-family: roboto, sans-serif;
+    font-family: patua one, cursive
+}
+
+.cart-box,
+.cart-box a,
+.checkout-box,
+.checkout-box a,
+.gallery-section .frame a.link,
+.gallery-section .frame:after,
+.gallery-section .frame:before,
+.like-box,
+.like-box a,
+.pagination-col .pagination>li>a,
+.post-time ul li a.comment-reply-link,
+.product-box,
+.product-box .frame img,
+.share-post ul li a,
+.slider-frame .owl-next:before,
+.slider-frame .owl-prev:before,
+.slider-frame .owl-theme .owl-controls .owl-nav [class*=owl-],
+.subscribe-box a.btn-home,
+.tags a,
+button[type=submit],
+input[type=submit] {
+    transition: all .5s ease-in;
+    -moz-transition: all .5s ease-in;
+    -webkit-transition: all .5s ease-in
+}
+
+#nav li,
+#nav li a:before,
+#nav li ul,
+#nav li:hover>a,
+.about-video-box .frame img,
+.about-video-box h3 a,
+.about-welcome-frame img,
+.archives-widget ul li a,
+.call-number-section strong.number,
+.categories-widget ul li a,
+.documents-box a.download,
+.features-services-box,
+.features-services-box .frame img,
+.features-services-box .text-box h3 a,
+.fetured-post-widget ul li .text-col a,
+.fetured-post-widget ul li .thumb img,
+.header-topbar .left-col a,
+.header-topbar .topbar-social ul li a,
+.header-topbar .topbar-social ul li a .fa,
+.instagram-widget ul li img,
+.latest-widget ul li a,
+.left-menu ul li a,
+.news-media-section .box .frame a.link,
+.news-media-section .box .frame:after,
+.news-media-section .box .frame:before,
+.post-box .frame img,
+.post-box .text-box h2 a,
+.post-box a.read-post,
+.recent-widget ul li .text-col a,
+.recent-widget ul li .text-col span,
+.recent-widget ul li .thumb img,
+.services-box .services-icon img,
+.services-box .services-icon:after,
+.services-box .services-icon:before,
+.services-detail .frame img,
+.services-widget ul li a,
+.tags-widget a,
+.team-box-style-1 .frame img,
+.team-box-style-1 .text-box h3 a,
+.team-detail .frame img,
+.testimonial-box .round-thumb img,
+.testimonial-style-1-box .owl-theme .owl-dots .owl-dot span,
+.welcome-section .inner-col .frame img {
+    transition: all .5s ease-in;
+    -moz-transition: all .5s ease-in;
+    -webkit-transition: all .5s ease-in
+}
+
+.services-box .text-box ul li {
+    list-style: none;
+    text-align: left;
+    background: url(../images/check-mark.png);
+    background-repeat: no-repeat;
+    background-position: 1px 6px;
+    padding: 2px 0 2px 20px
+}
+
+.list-common li {
+    list-style: none;
+    background: url(../images/check-mark.png);
+    background-repeat: no-repeat;
+    background-position: 1px 6px;
+    padding: 4px 0 4px 20px;
+    font-size: 16px
+}
+
+.features-services-box {
+    margin-bottom: 30px;
+    min-height: 280px
+}
+
+#home-banner .owl-controls .owl-nav {
+    position: absolute;
+    top: 40%;
+    width: 100%
+}
+
+#home-banner .owl-controls .owl-nav div:before {
+    position: absolute;
+    content: "";
+    padding: 13px;
+    box-shadow: 4px -4px 0 0 #fff inset;
+    -webkit-box-shadow: 4px -4px 0 0 #fff inset;
+    -moz-box-shadow: 4px -4px 0 0 #fff inset;
+    border: solid transparent;
+    border-width: 0;
+    transform: rotate(45deg);
+    margin: 0 0 0 -5px
+}
+
+#home-banner .owl-controls .owl-nav div.owl-prev {
+    left: 20px;
+    position: absolute
+}
+
+#home-banner .owl-controls .owl-nav div.owl-next {
+    right: 40px;
+    position: absolute
+}
+
+#home-banner .owl-controls .owl-dots {
+    position: absolute;
+    bottom: 0;
+    left: 50%
+}
+
+.common-carousel-control .owl-controls .owl-nav {
+    position: absolute;
+    width: 100%;
+    top: 40%
+}
+
+#home-banner .owl-controls .owl-nav div,
+.common-carousel-control .owl-controls .owl-nav div {
+    background: 0 0 !important;
+    background-color: transparent !important;
+    font-size: 0
+}
+
+.common-carousel-control .owl-controls .owl-nav div:before {
+    position: absolute;
+    content: "";
+    padding: 8px;
+    box-shadow: 4px -4px 0 0 #fff inset;
+    -webkit-box-shadow: 4px -4px 0 0 #fff inset;
+    -moz-box-shadow: 4px -4px 0 0 #fff inset;
+    border: solid transparent;
+    border-width: 0 0 2rem 2rem;
+    transform: rotate(45deg);
+    margin: -4px 0 0 -24px
+}
+
+#home-banner .owl-controls .owl-nav div.owl-next:before,
+.common-carousel-control .owl-controls .owl-nav div.owl-next:before {
+    transform: rotate(225deg)
+}
+
+.common-carousel-control .owl-controls .owl-nav div.owl-prev {
+    position: absolute;
+    left: -30px
+}
+
+.common-carousel-control .owl-controls .owl-nav div.owl-next {
+    position: absolute;
+    right: -45px
+}
+
+.pad-top-40 {
+    padding-top: 40px
+}
+
+.pad-bot-60 {
+    padding-bottom: 60px
+}
+
+.home-services .features-services-box .text-box h3 {
+    font-size: 20px !important
+}
+
+.home-services .features-services-box {
+    min-height: 240px
+}
+
+.no-gutter .col-md-12,
+.no-gutter .col-md-6 {
+    padding-left: 5px;
+    padding-right: 5px
+}
+
+.get-quote-footer textarea {
+    height: 80px !important
+}
+
+.full-width {
+    width: 100%
+}
+
+.about-page .about-welcome-frame img {
+    max-width: 130%
+}
+
+.about-page .about-welcome-frame:before {
+    right: -20px;
+    width: 395px;
+    height: 239px
+}
+
+.pad-top-80 {
+    padding-top: 80px
+}
+
+.pad-bot-110 {
+    padding-bottom: 110px
+}
+
+.text-primary {
+    color: #bc1b1b !important
+}
+
+.directors-desk img {
+    margin-bottom: 5px
+}
+
+.maxwidth {
+    max-width: 100%
+}
+
+.pad-bot-20 {
+    padding-bottom: 20px
+}
+
+.facility-services .features-services-box {
+    min-height: 356px
+}
+
+.footer-map iframe {
+    height: 285px
+}
+
+@media (min-width:768px) {
+    .footer-logo img {
+        position: absolute;
+        top: -41px;
+        width: 40%
+    }
+}
+
+.mob-foot {
+    display: none
+}
+
+@media only screen and (max-width:768px) and (min-width:240px) {
+    .mob-foot {
+        display: block;
+        position: fixed;
+        height: 50px;
+        bottom: 0;
+        width: 100%;
+        background: #000;
+        padding: 10px 4px;
+        z-index: 99999
+    }
+
+    .mob-foot div {
+        width: 48%;
+        display: inline-block;
+        text-align: center
+    }
+
+    .mob-foot div a {
+        color: #fff;
+        padding: 0 !important
+    }
+
+    .phoneicon {
+        width: 33px;
+        height: 33px;
+        padding-bottom: 2px
+    }
+
+    .whatsappicon {
+        width: 35px;
+        height: 35px;
+        padding-bottom: 2px
+    }
+
+    .common-carousel-control .owl-controls .owl-nav div.owl-next {
+        right: 0
+    }
+
+    .common-carousel-control .owl-controls .owl-nav div.owl-prev {
+        left: 0
+    }
+}
