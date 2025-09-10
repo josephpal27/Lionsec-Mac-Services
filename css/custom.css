@@ -3902,4 +3902,15 @@ input[type=submit] {
     .common-carousel-control .owl-controls .owl-nav div.owl-prev {
         left: 0
     }
+
+    .testimonial-box {
+        padding: 40px 20px 80px 20px !important;
+        margin: 0 0 30px;
+    }
+
+    .testimonial-box .holder h2 {
+        margin: 0;
+        font-size: 18px !important;
+        bottom: 40px;
+    }
 }
