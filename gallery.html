@@ -296,11 +296,11 @@
                     <div class="pagination-col">
                         <nav aria-label="Page navigation">
                             <ul class="pagination">
-                                <li> <a href="#" aria-label="Previous"> <span aria-hidden="true">Prev</span> </a> </li>
+                                <li class="gl-prev-btn"><a><span>Prev</span></a></li>
                                 <li class="gl-pgn active"><a>1</a></li>
                                 <li class="gl-pgn"><a>2</a></li>
                                 <li class="gl-pgn"><a>3</a></li>
-                                <li> <a href="#" aria-label="Next"> <span aria-hidden="true">Next</span> </a> </li>
+                                <li class="gl-next-btn"><a><span>Next</span></a></li>
                             </ul>
                         </nav>
                     </div>
@@ -456,22 +456,40 @@
     <script>
         let galleryRows = document.querySelectorAll('.gallery-section .row');
         let galleryTabBtns = document.querySelectorAll('.gallery-section .pagination .gl-pgn');
+        let prevBtn = document.querySelector('.gallery-section .pagination .gl-prev-btn');
+        let nextBtn = document.querySelector('.gallery-section .pagination .gl-next-btn');
+        let currentIndex = 0;
+
+        function showGalleryRow(index) {
+            // Clamp index
+            if (index < 0) index = 0;
+            if (index >= galleryRows.length) index = galleryRows.length - 1;
+            // Hide all rows
+            galleryRows.forEach(row => row.classList.add('hide'));
+            // Show selected row
+            galleryRows[index].classList.remove('hide');
+            // Update active button
+            galleryTabBtns.forEach(b => b.classList.remove('active'));
+            if (galleryTabBtns[index]) galleryTabBtns[index].classList.add('active');
+            currentIndex = index;
+        }
 
         galleryTabBtns.forEach((btn, index) => {
             btn.addEventListener('click', () => {
-                // Hide all sections
-                galleryRows.forEach(row => row.classList.add('hide'));
-
-                // Show clicked section
-                galleryRows[index].classList.remove('hide');
-
-                // Remove active class from all buttons
-                galleryTabBtns.forEach(b => b.classList.remove('active'));
-
-                // Add active class to clicked button
-                btn.classList.add('active');
+                showGalleryRow(index);
             });
         });
+
+        prevBtn.addEventListener('click', () => {
+            showGalleryRow(currentIndex - 1);
+        });
+
+        nextBtn.addEventListener('click', () => {
+            showGalleryRow(currentIndex + 1);
+        });
+
+        // Initialize view
+        showGalleryRow(currentIndex);
     </script>
 
 </body>

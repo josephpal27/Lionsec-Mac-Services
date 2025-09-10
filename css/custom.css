@@ -1074,6 +1074,7 @@ textarea:focus {
 
 .pagination-col .pagination>li {
     display: inline-block;
+    cursor: pointer;
 }
 
 .pagination-col .pagination>li:first-child>a,
