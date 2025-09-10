@@ -1073,7 +1073,7 @@ textarea:focus {
 }
 
 .pagination-col .pagination>li {
-    display: inline-block
+    display: inline-block;
 }
 
 .pagination-col .pagination>li:first-child>a,
@@ -1409,6 +1409,10 @@ textarea:focus {
 .gallery-section {
     float: left;
     width: 100%
+}
+
+.gallery-section .hide{
+    display: none;
 }
 
 .gallery-section .frame {
