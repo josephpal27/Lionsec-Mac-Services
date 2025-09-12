@@ -2251,6 +2251,35 @@ strong.coming-logo {
     margin-bottom: 80px
 }
 
+.services-section .service-details h2{
+    margin-bottom: 1.5rem;
+}
+
+
+.services-section .service-details .service-boxes-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.services-section .service-details .service-boxes-row > div {
+    display: flex;
+}
+.services-section .service-details .services-box{
+    background-color: #333;
+    flex: 1;
+}
+.services-section .service-details .services-box h2{
+    color: #dfdfdf;
+    font-size: calc(1.8rem + 0.5vw);
+}
+.services-section .service-details .services-box ul{
+    margin-top: 5rem;
+}
+.services-section .service-details .services-box ul li{
+    color: #fff;
+    text-align: left;
+    margin-top: 0.7rem;
+}
+
 .space-manager {
     float: left;
     width: 100%
@@ -3941,5 +3970,26 @@ input[type=submit] {
 
     .team-section .row .frame {
         margin-bottom: 2rem;
+    }
+
+    .services-section .service-details .service-boxes-row {
+        flex-direction: column;
+    }
+
+    .services-section .service-details .service-boxes-row > div {
+        width: 100%;
+    }
+
+    .services-section .service-details .services-box {
+        width: 100%;
+    }
+    .services-section .service-details .services-box h2{
+        font-size: calc(2rem + 0.5vw);
+    }
+    .services-section .service-details .services-box ul{
+        margin-top: 4rem;
+    }
+    .services-section .service-details .services-box ul li{
+        margin-top: 0.8rem;
     }
 }
